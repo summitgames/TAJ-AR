@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 3d8c3df3c7d84b346880711cce1799da
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: boundary_wall
+    100002: boundary_wall 1
+    100004: boundary_wall 2
+    100006: boundary_wall1
+    100008: boundary_wall1 1
+    100010: boundary_wall1 10
+    100012: boundary_wall1 11
+    100014: boundary_wall1 12
+    100016: boundary_wall1 13
+    100018: boundary_wall1 14
+    100020: boundary_wall1 15
+    100022: boundary_wall1 16
+    100024: boundary_wall1 17
+    100026: boundary_wall1 18
+    100028: boundary_wall1 19
+    100030: boundary_wall1 2
+    100032: boundary_wall1 20
+    100034: boundary_wall1 21
+    100036: boundary_wall1 22
+    100038: boundary_wall1 23
+    100040: boundary_wall1 24
+    100042: boundary_wall1 25
+    100044: boundary_wall1 26
+    100046: boundary_wall1 3
+    100048: boundary_wall1 4
+    100050: boundary_wall1 5
+    100052: boundary_wall1 6
+    100054: boundary_wall1 7
+    100056: boundary_wall1 8
+    100058: boundary_wall1 9
+    100060: boundary_wall10
+    100062: boundary_wall10 1
+    100064: boundary_wall10 10
+    100066: boundary_wall10 11
+    100068: boundary_wall10 12
+    100070: boundary_wall10 13
+    100072: boundary_wall10 14
+    100074: boundary_wall10 15
+    100076: boundary_wall10 16
+    100078: boundary_wall10 17
+    100080: boundary_wall10 18
+    100082: boundary_wall10 19
+    100084: boundary_wall10 2
+    100086: boundary_wall10 20
+    100088: boundary_wall10 21
+    100090: boundary_wall10 22
+    100092: boundary_wall10 23
+    100094: boundary_wall10 24
+    100096: boundary_wall10 25
+    100098: boundary_wall10 26
+    100100: boundary_wall10 3
+    100102: boundary_wall10 4
+    100104: boundary_wall10 5
+    100106: boundary_wall10 6
+    100108: boundary_wall10 7
+    100110: boundary_wall10 8
+    100112: boundary_wall10 9
+    100114: boundary_wall11
+    100116: boundary_wall11 1
+    100118: boundary_wall11 10
+    100120: boundary_wall11 11
+    100122: boundary_wall11 12
+    100124: boundary_wall11 13
+    100126: boundary_wall11 14
+    100128: boundary_wall11 15
+    100130: boundary_wall11 16
+    100132: boundary_wall11 17
+    100134: boundary_wall11 18
+    100136: boundary_wall11 19
+    100138: boundary_wall11 2
+    100140: boundary_wall11 20
+    100142: boundary_wall11 21
+    100144: boundary_wall11 22
+    100146: boundary_wall11 23
+    100148: boundary_wall11 24
+    100150: boundary_wall11 25
+    100152: boundary_wall11 26
+    100154: boundary_wall11 3
+    100156: boundary_wall11 4
+    100158: boundary_wall11 5
+    100160: boundary_wall11 6
+    100162: boundary_wall11 7
+    100164: boundary_wall11 8
+    100166: boundary_wall11 9
+    100168: boundary_wall12
+    100170: boundary_wall12 1
+    100172: boundary_wall12 10
+    100174: boundary_wall12 11
+    100176: boundary_wall12 12
+    100178: boundary_wall12 13
+    100180: boundary_wall12 14
+    100182: boundary_wall12 15
+    100184: boundary_wall12 16
+    100186: boundary_wall12 17
+    100188: boundary_wall12 18
+    100190: boundary_wall12 19
+    100192: boundary_wall12 2
+    100194: boundary_wall12 20
+    100196: boundary_wall12 21
+    100198: boundary_wall12 22
+    100200: boundary_wall12 23
+    100202: boundary_wall12 24
+    100204: boundary_wall12 25
+    100206: boundary_wall12 26
+    100208: boundary_wall12 3
+    100210: boundary_wall12 4
+    100212: boundary_wall12 5
+    100214: boundary_wall12 6
+    100216: boundary_wall12 7
+    100218: boundary_wall12 8
+    100220: boundary_wall12 9
+    100222: boundary_wall13
+    100224: boundary_wall13 1
+    100226: boundary_wall13 2
+    100228: boundary_wall14
+    100230: boundary_wall14 1
+    100232: boundary_wall14 2
+    100234: boundary_wall15
+    100236: boundary_wall15 1
+    100238: boundary_wall15 2
+    100240: boundary_wall16
+    100242: boundary_wall16 1
+    100244: boundary_wall16 2
+    100246: boundary_wall17
+    100248: boundary_wall17 1
+    100250: boundary_wall17 2
+    100252: boundary_wall18
+    100254: boundary_wall18 1
+    100256: boundary_wall18 2
+    100258: boundary_wall19
+    100260: boundary_wall19 1
+    100262: boundary_wall19 2
+    100264: boundary_wall2
+    100266: boundary_wall2 1
+    100268: boundary_wall2 10
+    100270: boundary_wall2 11
+    100272: boundary_wall2 12
+    100274: boundary_wall2 13
+    100276: boundary_wall2 14
+    100278: boundary_wall2 15
+    100280: boundary_wall2 16
+    100282: boundary_wall2 17
+    100284: boundary_wall2 18
+    100286: boundary_wall2 19
+    100288: boundary_wall2 2
+    100290: boundary_wall2 20
+    100292: boundary_wall2 21
+    100294: boundary_wall2 22
+    100296: boundary_wall2 23
+    100298: boundary_wall2 24
+    100300: boundary_wall2 25
+    100302: boundary_wall2 26
+    100304: boundary_wall2 3
+    100306: boundary_wall2 4
+    100308: boundary_wall2 5
+    100310: boundary_wall2 6
+    100312: boundary_wall2 7
+    100314: boundary_wall2 8
+    100316: boundary_wall2 9
+    100318: boundary_wall20
+    100320: boundary_wall20 1
+    100322: boundary_wall20 2
+    100324: boundary_wall3
+    100326: boundary_wall3 1
+    100328: boundary_wall3 10
+    100330: boundary_wall3 11
+    100332: boundary_wall3 12
+    100334: boundary_wall3 13
+    100336: boundary_wall3 14
+    100338: boundary_wall3 15
+    100340: boundary_wall3 16
+    100342: boundary_wall3 17
+    100344: boundary_wall3 18
+    100346: boundary_wall3 19
+    100348: boundary_wall3 2
+    100350: boundary_wall3 20
+    100352: boundary_wall3 21
+    100354: boundary_wall3 22
+    100356: boundary_wall3 23
+    100358: boundary_wall3 24
+    100360: boundary_wall3 25
+    100362: boundary_wall3 26
+    100364: boundary_wall3 3
+    100366: boundary_wall3 4
+    100368: boundary_wall3 5
+    100370: boundary_wall3 6
+    100372: boundary_wall3 7
+    100374: boundary_wall3 8
+    100376: boundary_wall3 9
+    100378: boundary_wall4
+    100380: boundary_wall4 1
+    100382: boundary_wall4 10
+    100384: boundary_wall4 11
+    100386: boundary_wall4 12
+    100388: boundary_wall4 13
+    100390: boundary_wall4 14
+    100392: boundary_wall4 15
+    100394: boundary_wall4 16
+    100396: boundary_wall4 17
+    100398: boundary_wall4 18
+    100400: boundary_wall4 19
+    100402: boundary_wall4 2
+    100404: boundary_wall4 20
+    100406: boundary_wall4 21
+    100408: boundary_wall4 22
+    100410: boundary_wall4 23
+    100412: boundary_wall4 24
+    100414: boundary_wall4 25
+    100416: boundary_wall4 26
+    100418: boundary_wall4 3
+    100420: boundary_wall4 4
+    100422: boundary_wall4 5
+    100424: boundary_wall4 6
+    100426: boundary_wall4 7
+    100428: boundary_wall4 8
+    100430: boundary_wall4 9
+    100432: boundary_wall5
+    100434: boundary_wall5 1
+    100436: boundary_wall5 10
+    100438: boundary_wall5 11
+    100440: boundary_wall5 12
+    100442: boundary_wall5 13
+    100444: boundary_wall5 14
+    100446: boundary_wall5 15
+    100448: boundary_wall5 16
+    100450: boundary_wall5 17
+    100452: boundary_wall5 18
+    100454: boundary_wall5 19
+    100456: boundary_wall5 2
+    100458: boundary_wall5 20
+    100460: boundary_wall5 21
+    100462: boundary_wall5 22
+    100464: boundary_wall5 23
+    100466: boundary_wall5 24
+    100468: boundary_wall5 25
+    100470: boundary_wall5 26
+    100472: boundary_wall5 3
+    100474: boundary_wall5 4
+    100476: boundary_wall5 5
+    100478: boundary_wall5 6
+    100480: boundary_wall5 7
+    100482: boundary_wall5 8
+    100484: boundary_wall5 9
+    100486: boundary_wall6
+    100488: boundary_wall6 1
+    100490: boundary_wall6 10
+    100492: boundary_wall6 11
+    100494: boundary_wall6 12
+    100496: boundary_wall6 13
+    100498: boundary_wall6 14
+    100500: boundary_wall6 15
+    100502: boundary_wall6 16
+    100504: boundary_wall6 17
+    100506: boundary_wall6 18
+    100508: boundary_wall6 19
+    100510: boundary_wall6 2
+    100512: boundary_wall6 20
+    100514: boundary_wall6 21
+    100516: boundary_wall6 22
+    100518: boundary_wall6 23
+    100520: boundary_wall6 24
+    100522: boundary_wall6 25
+    100524: boundary_wall6 26
+    100526: boundary_wall6 3
+    100528: boundary_wall6 4
+    100530: boundary_wall6 5
+    100532: boundary_wall6 6
+    100534: boundary_wall6 7
+    100536: boundary_wall6 8
+    100538: boundary_wall6 9
+    100540: boundary_wall7
+    100542: boundary_wall7 1
+    100544: boundary_wall7 10
+    100546: boundary_wall7 11
+    100548: boundary_wall7 12
+    100550: boundary_wall7 13
+    100552: boundary_wall7 14
+    100554: boundary_wall7 15
+    100556: boundary_wall7 16
+    100558: boundary_wall7 17
+    100560: boundary_wall7 18
+    100562: boundary_wall7 19
+    100564: boundary_wall7 2
+    100566: boundary_wall7 20
+    100568: boundary_wall7 21
+    100570: boundary_wall7 22
+    100572: boundary_wall7 23
+    100574: boundary_wall7 24
+    100576: boundary_wall7 25
+    100578: boundary_wall7 26
+    100580: boundary_wall7 3
+    100582: boundary_wall7 4
+    100584: boundary_wall7 5
+    100586: boundary_wall7 6
+    100588: boundary_wall7 7
+    100590: boundary_wall7 8
+    100592: boundary_wall7 9
+    100594: boundary_wall8
+    100596: boundary_wall8 1
+    100598: boundary_wall8 10
+    100600: boundary_wall8 11
+    100602: boundary_wall8 12
+    100604: boundary_wall8 13
+    100606: boundary_wall8 14
+    100608: boundary_wall8 15
+    100610: boundary_wall8 16
+    100612: boundary_wall8 17
+    100614: boundary_wall8 18
+    100616: boundary_wall8 19
+    100618: boundary_wall8 2
+    100620: boundary_wall8 20
+    100622: boundary_wall8 21
+    100624: boundary_wall8 22
+    100626: boundary_wall8 23
+    100628: boundary_wall8 24
+    100630: boundary_wall8 25
+    100632: boundary_wall8 26
+    100634: boundary_wall8 3
+    100636: boundary_wall8 4
+    100638: boundary_wall8 5
+    100640: boundary_wall8 6
+    100642: boundary_wall8 7
+    100644: boundary_wall8 8
+    100646: boundary_wall8 9
+    100648: boundary_wall9
+    100650: boundary_wall9 1
+    100652: boundary_wall9 10
+    100654: boundary_wall9 11
+    100656: boundary_wall9 12
+    100658: boundary_wall9 13
+    100660: boundary_wall9 14
+    100662: boundary_wall9 15
+    100664: boundary_wall9 16
+    100666: boundary_wall9 17
+    100668: boundary_wall9 18
+    100670: boundary_wall9 19
+    100672: boundary_wall9 2
+    100674: boundary_wall9 20
+    100676: boundary_wall9 21
+    100678: boundary_wall9 22
+    100680: boundary_wall9 23
+    100682: boundary_wall9 24
+    100684: boundary_wall9 25
+    100686: boundary_wall9 26
+    100688: boundary_wall9 3
+    100690: boundary_wall9 4
+    100692: boundary_wall9 5
+    100694: boundary_wall9 6
+    100696: boundary_wall9 7
+    100698: boundary_wall9 8
+    100700: boundary_wall9 9
+    100702: boundary_wallv
+    100704: boundary_wallv 1
+    100706: boundary_wallv 10
+    100708: boundary_wallv 11
+    100710: boundary_wallv 12
+    100712: boundary_wallv 13
+    100714: boundary_wallv 14
+    100716: boundary_wallv 15
+    100718: boundary_wallv 16
+    100720: boundary_wallv 17
+    100722: boundary_wallv 18
+    100724: boundary_wallv 19
+    100726: boundary_wallv 2
+    100728: boundary_wallv 20
+    100730: boundary_wallv 21
+    100732: boundary_wallv 22
+    100734: boundary_wallv 23
+    100736: boundary_wallv 24
+    100738: boundary_wallv 25
+    100740: boundary_wallv 26
+    100742: boundary_wallv 3
+    100744: boundary_wallv 4
+    100746: boundary_wallv 5
+    100748: boundary_wallv 6
+    100750: boundary_wallv 7
+    100752: boundary_wallv 8
+    100754: boundary_wallv 9
+    100756: //RootNode
+    100758: group18_pCube30
+    100760: group18_pCube31
+    100762: group75
+    100764: group76
+    100766: group77
+    100768: group78
+    100770: group79
+    100772: Mod
+    100774: Mod 1
+    100776: Mod1
+    100778: Mod2
+    100780: Mod3
+    100782: Mod4
+    100784: Mod5
+    100786: Mosque_mine_L_grp2
+    100788: Mosque_mine_L_Mod1_1
+    100790: Mosque_mine_L_Mod1_10
+    100792: Mosque_mine_L_Mod1_100
+    100794: Mosque_mine_L_Mod1_101
+    100796: Mosque_mine_L_Mod1_102
+    100798: Mosque_mine_L_Mod1_11
+    100800: Mosque_mine_L_Mod1_12
+    100802: Mosque_mine_L_Mod1_13
+    100804: Mosque_mine_L_Mod1_14
+    100806: Mosque_mine_L_Mod1_15
+    100808: Mosque_mine_L_Mod1_16
+    100810: Mosque_mine_L_Mod1_17
+    100812: Mosque_mine_L_Mod1_18
+    100814: Mosque_mine_L_Mod1_19
+    100816: Mosque_mine_L_Mod1_20
+    100818: Mosque_mine_L_Mod1_21
+    100820: Mosque_mine_L_Mod1_22
+    100822: Mosque_mine_L_Mod1_23
+    100824: Mosque_mine_L_Mod1_24
+    100826: Mosque_mine_L_Mod1_25
+    100828: Mosque_mine_L_Mod1_26
+    100830: Mosque_mine_L_Mod1_27
+    100832: Mosque_mine_L_Mod1_28
+    100834: Mosque_mine_L_Mod1_29
+    100836: Mosque_mine_L_Mod1_3
+    100838: Mosque_mine_L_Mod1_30
+    100840: Mosque_mine_L_Mod1_31
+    100842: Mosque_mine_L_Mod1_32
+    100844: Mosque_mine_L_Mod1_33
+    100846: Mosque_mine_L_Mod1_34
+    100848: Mosque_mine_L_Mod1_35
+    100850: Mosque_mine_L_Mod1_38
+    100852: Mosque_mine_L_Mod1_39
+    100854: Mosque_mine_L_Mod1_4
+    100856: Mosque_mine_L_Mod1_40
+    100858: Mosque_mine_L_Mod1_41
+    100860: Mosque_mine_L_Mod1_42
+    100862: Mosque_mine_L_Mod1_43
+    100864: Mosque_mine_L_Mod1_44
+    100866: Mosque_mine_L_Mod1_45
+    100868: Mosque_mine_L_Mod1_46
+    100870: Mosque_mine_L_Mod1_48
+    100872: Mosque_mine_L_Mod1_49
+    100874: Mosque_mine_L_Mod1_5
+    100876: Mosque_mine_L_Mod1_51
+    100878: Mosque_mine_L_Mod1_52
+    100880: Mosque_mine_L_Mod1_53
+    100882: Mosque_mine_L_Mod1_54
+    100884: Mosque_mine_L_Mod1_55
+    100886: Mosque_mine_L_Mod1_56
+    100888: Mosque_mine_L_Mod1_57
+    100890: Mosque_mine_L_Mod1_58
+    100892: Mosque_mine_L_Mod1_59
+    100894: Mosque_mine_L_Mod1_6
+    100896: Mosque_mine_L_Mod1_60
+    100898: Mosque_mine_L_Mod1_61
+    100900: Mosque_mine_L_Mod1_62
+    100902: Mosque_mine_L_Mod1_63
+    100904: Mosque_mine_L_Mod1_64
+    100906: Mosque_mine_L_Mod1_65
+    100908: Mosque_mine_L_Mod1_67
+    100910: Mosque_mine_L_Mod1_68
+    100912: Mosque_mine_L_Mod1_69
+    100914: Mosque_mine_L_Mod1_7
+    100916: Mosque_mine_L_Mod1_70
+    100918: Mosque_mine_L_Mod1_71
+    100920: Mosque_mine_L_Mod1_72
+    100922: Mosque_mine_L_Mod1_73
+    100924: Mosque_mine_L_Mod1_74
+    100926: Mosque_mine_L_Mod1_75
+    100928: Mosque_mine_L_Mod1_76
+    100930: Mosque_mine_L_Mod1_77
+    100932: Mosque_mine_L_Mod1_78
+    100934: Mosque_mine_L_Mod1_79
+    100936: Mosque_mine_L_Mod1_8
+    100938: Mosque_mine_L_Mod1_80
+    100940: Mosque_mine_L_Mod1_81
+    100942: Mosque_mine_L_Mod1_82
+    100944: Mosque_mine_L_Mod1_83
+    100946: Mosque_mine_L_Mod1_84
+    100948: Mosque_mine_L_Mod1_85
+    100950: Mosque_mine_L_Mod1_86
+    100952: Mosque_mine_L_Mod1_87
+    100954: Mosque_mine_L_Mod1_88
+    100956: Mosque_mine_L_Mod1_89
+    100958: Mosque_mine_L_Mod1_9
+    100960: Mosque_mine_L_Mod1_90
+    100962: Mosque_mine_L_Mod1_91
+    100964: Mosque_mine_L_Mod1_92
+    100966: Mosque_mine_L_Mod1_93
+    100968: Mosque_mine_L_Mod1_94
+    100970: Mosque_mine_L_Mod1_95
+    100972: Mosque_mine_L_Mod1_96
+    100974: Mosque_mine_L_Mod1_97
+    100976: Mosque_mine_L_Mod1_98
+    100978: Mosque_mine_L_Mod1_99
+    100980: pCube8
+    100982: pCube9
+    100984: polySurface470
+    100986: group86
+    100988: Mod 2
+    100990: Mod1 1
+    100992: Mod3 1
+    100994: Mod5 1
+    400000: boundary_wall
+    400002: boundary_wall 1
+    400004: boundary_wall 2
+    400006: boundary_wall1
+    400008: boundary_wall1 1
+    400010: boundary_wall1 10
+    400012: boundary_wall1 11
+    400014: boundary_wall1 12
+    400016: boundary_wall1 13
+    400018: boundary_wall1 14
+    400020: boundary_wall1 15
+    400022: boundary_wall1 16
+    400024: boundary_wall1 17
+    400026: boundary_wall1 18
+    400028: boundary_wall1 19
+    400030: boundary_wall1 2
+    400032: boundary_wall1 20
+    400034: boundary_wall1 21
+    400036: boundary_wall1 22
+    400038: boundary_wall1 23
+    400040: boundary_wall1 24
+    400042: boundary_wall1 25
+    400044: boundary_wall1 26
+    400046: boundary_wall1 3
+    400048: boundary_wall1 4
+    400050: boundary_wall1 5
+    400052: boundary_wall1 6
+    400054: boundary_wall1 7
+    400056: boundary_wall1 8
+    400058: boundary_wall1 9
+    400060: boundary_wall10
+    400062: boundary_wall10 1
+    400064: boundary_wall10 10
+    400066: boundary_wall10 11
+    400068: boundary_wall10 12
+    400070: boundary_wall10 13
+    400072: boundary_wall10 14
+    400074: boundary_wall10 15
+    400076: boundary_wall10 16
+    400078: boundary_wall10 17
+    400080: boundary_wall10 18
+    400082: boundary_wall10 19
+    400084: boundary_wall10 2
+    400086: boundary_wall10 20
+    400088: boundary_wall10 21
+    400090: boundary_wall10 22
+    400092: boundary_wall10 23
+    400094: boundary_wall10 24
+    400096: boundary_wall10 25
+    400098: boundary_wall10 26
+    400100: boundary_wall10 3
+    400102: boundary_wall10 4
+    400104: boundary_wall10 5
+    400106: boundary_wall10 6
+    400108: boundary_wall10 7
+    400110: boundary_wall10 8
+    400112: boundary_wall10 9
+    400114: boundary_wall11
+    400116: boundary_wall11 1
+    400118: boundary_wall11 10
+    400120: boundary_wall11 11
+    400122: boundary_wall11 12
+    400124: boundary_wall11 13
+    400126: boundary_wall11 14
+    400128: boundary_wall11 15
+    400130: boundary_wall11 16
+    400132: boundary_wall11 17
+    400134: boundary_wall11 18
+    400136: boundary_wall11 19
+    400138: boundary_wall11 2
+    400140: boundary_wall11 20
+    400142: boundary_wall11 21
+    400144: boundary_wall11 22
+    400146: boundary_wall11 23
+    400148: boundary_wall11 24
+    400150: boundary_wall11 25
+    400152: boundary_wall11 26
+    400154: boundary_wall11 3
+    400156: boundary_wall11 4
+    400158: boundary_wall11 5
+    400160: boundary_wall11 6
+    400162: boundary_wall11 7
+    400164: boundary_wall11 8
+    400166: boundary_wall11 9
+    400168: boundary_wall12
+    400170: boundary_wall12 1
+    400172: boundary_wall12 10
+    400174: boundary_wall12 11
+    400176: boundary_wall12 12
+    400178: boundary_wall12 13
+    400180: boundary_wall12 14
+    400182: boundary_wall12 15
+    400184: boundary_wall12 16
+    400186: boundary_wall12 17
+    400188: boundary_wall12 18
+    400190: boundary_wall12 19
+    400192: boundary_wall12 2
+    400194: boundary_wall12 20
+    400196: boundary_wall12 21
+    400198: boundary_wall12 22
+    400200: boundary_wall12 23
+    400202: boundary_wall12 24
+    400204: boundary_wall12 25
+    400206: boundary_wall12 26
+    400208: boundary_wall12 3
+    400210: boundary_wall12 4
+    400212: boundary_wall12 5
+    400214: boundary_wall12 6
+    400216: boundary_wall12 7
+    400218: boundary_wall12 8
+    400220: boundary_wall12 9
+    400222: boundary_wall13
+    400224: boundary_wall13 1
+    400226: boundary_wall13 2
+    400228: boundary_wall14
+    400230: boundary_wall14 1
+    400232: boundary_wall14 2
+    400234: boundary_wall15
+    400236: boundary_wall15 1
+    400238: boundary_wall15 2
+    400240: boundary_wall16
+    400242: boundary_wall16 1
+    400244: boundary_wall16 2
+    400246: boundary_wall17
+    400248: boundary_wall17 1
+    400250: boundary_wall17 2
+    400252: boundary_wall18
+    400254: boundary_wall18 1
+    400256: boundary_wall18 2
+    400258: boundary_wall19
+    400260: boundary_wall19 1
+    400262: boundary_wall19 2
+    400264: boundary_wall2
+    400266: boundary_wall2 1
+    400268: boundary_wall2 10
+    400270: boundary_wall2 11
+    400272: boundary_wall2 12
+    400274: boundary_wall2 13
+    400276: boundary_wall2 14
+    400278: boundary_wall2 15
+    400280: boundary_wall2 16
+    400282: boundary_wall2 17
+    400284: boundary_wall2 18
+    400286: boundary_wall2 19
+    400288: boundary_wall2 2
+    400290: boundary_wall2 20
+    400292: boundary_wall2 21
+    400294: boundary_wall2 22
+    400296: boundary_wall2 23
+    400298: boundary_wall2 24
+    400300: boundary_wall2 25
+    400302: boundary_wall2 26
+    400304: boundary_wall2 3
+    400306: boundary_wall2 4
+    400308: boundary_wall2 5
+    400310: boundary_wall2 6
+    400312: boundary_wall2 7
+    400314: boundary_wall2 8
+    400316: boundary_wall2 9
+    400318: boundary_wall20
+    400320: boundary_wall20 1
+    400322: boundary_wall20 2
+    400324: boundary_wall3
+    400326: boundary_wall3 1
+    400328: boundary_wall3 10
+    400330: boundary_wall3 11
+    400332: boundary_wall3 12
+    400334: boundary_wall3 13
+    400336: boundary_wall3 14
+    400338: boundary_wall3 15
+    400340: boundary_wall3 16
+    400342: boundary_wall3 17
+    400344: boundary_wall3 18
+    400346: boundary_wall3 19
+    400348: boundary_wall3 2
+    400350: boundary_wall3 20
+    400352: boundary_wall3 21
+    400354: boundary_wall3 22
+    400356: boundary_wall3 23
+    400358: boundary_wall3 24
+    400360: boundary_wall3 25
+    400362: boundary_wall3 26
+    400364: boundary_wall3 3
+    400366: boundary_wall3 4
+    400368: boundary_wall3 5
+    400370: boundary_wall3 6
+    400372: boundary_wall3 7
+    400374: boundary_wall3 8
+    400376: boundary_wall3 9
+    400378: boundary_wall4
+    400380: boundary_wall4 1
+    400382: boundary_wall4 10
+    400384: boundary_wall4 11
+    400386: boundary_wall4 12
+    400388: boundary_wall4 13
+    400390: boundary_wall4 14
+    400392: boundary_wall4 15
+    400394: boundary_wall4 16
+    400396: boundary_wall4 17
+    400398: boundary_wall4 18
+    400400: boundary_wall4 19
+    400402: boundary_wall4 2
+    400404: boundary_wall4 20
+    400406: boundary_wall4 21
+    400408: boundary_wall4 22
+    400410: boundary_wall4 23
+    400412: boundary_wall4 24
+    400414: boundary_wall4 25
+    400416: boundary_wall4 26
+    400418: boundary_wall4 3
+    400420: boundary_wall4 4
+    400422: boundary_wall4 5
+    400424: boundary_wall4 6
+    400426: boundary_wall4 7
+    400428: boundary_wall4 8
+    400430: boundary_wall4 9
+    400432: boundary_wall5
+    400434: boundary_wall5 1
+    400436: boundary_wall5 10
+    400438: boundary_wall5 11
+    400440: boundary_wall5 12
+    400442: boundary_wall5 13
+    400444: boundary_wall5 14
+    400446: boundary_wall5 15
+    400448: boundary_wall5 16
+    400450: boundary_wall5 17
+    400452: boundary_wall5 18
+    400454: boundary_wall5 19
+    400456: boundary_wall5 2
+    400458: boundary_wall5 20
+    400460: boundary_wall5 21
+    400462: boundary_wall5 22
+    400464: boundary_wall5 23
+    400466: boundary_wall5 24
+    400468: boundary_wall5 25
+    400470: boundary_wall5 26
+    400472: boundary_wall5 3
+    400474: boundary_wall5 4
+    400476: boundary_wall5 5
+    400478: boundary_wall5 6
+    400480: boundary_wall5 7
+    400482: boundary_wall5 8
+    400484: boundary_wall5 9
+    400486: boundary_wall6
+    400488: boundary_wall6 1
+    400490: boundary_wall6 10
+    400492: boundary_wall6 11
+    400494: boundary_wall6 12
+    400496: boundary_wall6 13
+    400498: boundary_wall6 14
+    400500: boundary_wall6 15
+    400502: boundary_wall6 16
+    400504: boundary_wall6 17
+    400506: boundary_wall6 18
+    400508: boundary_wall6 19
+    400510: boundary_wall6 2
+    400512: boundary_wall6 20
+    400514: boundary_wall6 21
+    400516: boundary_wall6 22
+    400518: boundary_wall6 23
+    400520: boundary_wall6 24
+    400522: boundary_wall6 25
+    400524: boundary_wall6 26
+    400526: boundary_wall6 3
+    400528: boundary_wall6 4
+    400530: boundary_wall6 5
+    400532: boundary_wall6 6
+    400534: boundary_wall6 7
+    400536: boundary_wall6 8
+    400538: boundary_wall6 9
+    400540: boundary_wall7
+    400542: boundary_wall7 1
+    400544: boundary_wall7 10
+    400546: boundary_wall7 11
+    400548: boundary_wall7 12
+    400550: boundary_wall7 13
+    400552: boundary_wall7 14
+    400554: boundary_wall7 15
+    400556: boundary_wall7 16
+    400558: boundary_wall7 17
+    400560: boundary_wall7 18
+    400562: boundary_wall7 19
+    400564: boundary_wall7 2
+    400566: boundary_wall7 20
+    400568: boundary_wall7 21
+    400570: boundary_wall7 22
+    400572: boundary_wall7 23
+    400574: boundary_wall7 24
+    400576: boundary_wall7 25
+    400578: boundary_wall7 26
+    400580: boundary_wall7 3
+    400582: boundary_wall7 4
+    400584: boundary_wall7 5
+    400586: boundary_wall7 6
+    400588: boundary_wall7 7
+    400590: boundary_wall7 8
+    400592: boundary_wall7 9
+    400594: boundary_wall8
+    400596: boundary_wall8 1
+    400598: boundary_wall8 10
+    400600: boundary_wall8 11
+    400602: boundary_wall8 12
+    400604: boundary_wall8 13
+    400606: boundary_wall8 14
+    400608: boundary_wall8 15
+    400610: boundary_wall8 16
+    400612: boundary_wall8 17
+    400614: boundary_wall8 18
+    400616: boundary_wall8 19
+    400618: boundary_wall8 2
+    400620: boundary_wall8 20
+    400622: boundary_wall8 21
+    400624: boundary_wall8 22
+    400626: boundary_wall8 23
+    400628: boundary_wall8 24
+    400630: boundary_wall8 25
+    400632: boundary_wall8 26
+    400634: boundary_wall8 3
+    400636: boundary_wall8 4
+    400638: boundary_wall8 5
+    400640: boundary_wall8 6
+    400642: boundary_wall8 7
+    400644: boundary_wall8 8
+    400646: boundary_wall8 9
+    400648: boundary_wall9
+    400650: boundary_wall9 1
+    400652: boundary_wall9 10
+    400654: boundary_wall9 11
+    400656: boundary_wall9 12
+    400658: boundary_wall9 13
+    400660: boundary_wall9 14
+    400662: boundary_wall9 15
+    400664: boundary_wall9 16
+    400666: boundary_wall9 17
+    400668: boundary_wall9 18
+    400670: boundary_wall9 19
+    400672: boundary_wall9 2
+    400674: boundary_wall9 20
+    400676: boundary_wall9 21
+    400678: boundary_wall9 22
+    400680: boundary_wall9 23
+    400682: boundary_wall9 24
+    400684: boundary_wall9 25
+    400686: boundary_wall9 26
+    400688: boundary_wall9 3
+    400690: boundary_wall9 4
+    400692: boundary_wall9 5
+    400694: boundary_wall9 6
+    400696: boundary_wall9 7
+    400698: boundary_wall9 8
+    400700: boundary_wall9 9
+    400702: boundary_wallv
+    400704: boundary_wallv 1
+    400706: boundary_wallv 10
+    400708: boundary_wallv 11
+    400710: boundary_wallv 12
+    400712: boundary_wallv 13
+    400714: boundary_wallv 14
+    400716: boundary_wallv 15
+    400718: boundary_wallv 16
+    400720: boundary_wallv 17
+    400722: boundary_wallv 18
+    400724: boundary_wallv 19
+    400726: boundary_wallv 2
+    400728: boundary_wallv 20
+    400730: boundary_wallv 21
+    400732: boundary_wallv 22
+    400734: boundary_wallv 23
+    400736: boundary_wallv 24
+    400738: boundary_wallv 25
+    400740: boundary_wallv 26
+    400742: boundary_wallv 3
+    400744: boundary_wallv 4
+    400746: boundary_wallv 5
+    400748: boundary_wallv 6
+    400750: boundary_wallv 7
+    400752: boundary_wallv 8
+    400754: boundary_wallv 9
+    400756: //RootNode
+    400758: group18_pCube30
+    400760: group18_pCube31
+    400762: group75
+    400764: group76
+    400766: group77
+    400768: group78
+    400770: group79
+    400772: Mod
+    400774: Mod 1
+    400776: Mod1
+    400778: Mod2
+    400780: Mod3
+    400782: Mod4
+    400784: Mod5
+    400786: Mosque_mine_L_grp2
+    400788: Mosque_mine_L_Mod1_1
+    400790: Mosque_mine_L_Mod1_10
+    400792: Mosque_mine_L_Mod1_100
+    400794: Mosque_mine_L_Mod1_101
+    400796: Mosque_mine_L_Mod1_102
+    400798: Mosque_mine_L_Mod1_11
+    400800: Mosque_mine_L_Mod1_12
+    400802: Mosque_mine_L_Mod1_13
+    400804: Mosque_mine_L_Mod1_14
+    400806: Mosque_mine_L_Mod1_15
+    400808: Mosque_mine_L_Mod1_16
+    400810: Mosque_mine_L_Mod1_17
+    400812: Mosque_mine_L_Mod1_18
+    400814: Mosque_mine_L_Mod1_19
+    400816: Mosque_mine_L_Mod1_20
+    400818: Mosque_mine_L_Mod1_21
+    400820: Mosque_mine_L_Mod1_22
+    400822: Mosque_mine_L_Mod1_23
+    400824: Mosque_mine_L_Mod1_24
+    400826: Mosque_mine_L_Mod1_25
+    400828: Mosque_mine_L_Mod1_26
+    400830: Mosque_mine_L_Mod1_27
+    400832: Mosque_mine_L_Mod1_28
+    400834: Mosque_mine_L_Mod1_29
+    400836: Mosque_mine_L_Mod1_3
+    400838: Mosque_mine_L_Mod1_30
+    400840: Mosque_mine_L_Mod1_31
+    400842: Mosque_mine_L_Mod1_32
+    400844: Mosque_mine_L_Mod1_33
+    400846: Mosque_mine_L_Mod1_34
+    400848: Mosque_mine_L_Mod1_35
+    400850: Mosque_mine_L_Mod1_38
+    400852: Mosque_mine_L_Mod1_39
+    400854: Mosque_mine_L_Mod1_4
+    400856: Mosque_mine_L_Mod1_40
+    400858: Mosque_mine_L_Mod1_41
+    400860: Mosque_mine_L_Mod1_42
+    400862: Mosque_mine_L_Mod1_43
+    400864: Mosque_mine_L_Mod1_44
+    400866: Mosque_mine_L_Mod1_45
+    400868: Mosque_mine_L_Mod1_46
+    400870: Mosque_mine_L_Mod1_48
+    400872: Mosque_mine_L_Mod1_49
+    400874: Mosque_mine_L_Mod1_5
+    400876: Mosque_mine_L_Mod1_51
+    400878: Mosque_mine_L_Mod1_52
+    400880: Mosque_mine_L_Mod1_53
+    400882: Mosque_mine_L_Mod1_54
+    400884: Mosque_mine_L_Mod1_55
+    400886: Mosque_mine_L_Mod1_56
+    400888: Mosque_mine_L_Mod1_57
+    400890: Mosque_mine_L_Mod1_58
+    400892: Mosque_mine_L_Mod1_59
+    400894: Mosque_mine_L_Mod1_6
+    400896: Mosque_mine_L_Mod1_60
+    400898: Mosque_mine_L_Mod1_61
+    400900: Mosque_mine_L_Mod1_62
+    400902: Mosque_mine_L_Mod1_63
+    400904: Mosque_mine_L_Mod1_64
+    400906: Mosque_mine_L_Mod1_65
+    400908: Mosque_mine_L_Mod1_67
+    400910: Mosque_mine_L_Mod1_68
+    400912: Mosque_mine_L_Mod1_69
+    400914: Mosque_mine_L_Mod1_7
+    400916: Mosque_mine_L_Mod1_70
+    400918: Mosque_mine_L_Mod1_71
+    400920: Mosque_mine_L_Mod1_72
+    400922: Mosque_mine_L_Mod1_73
+    400924: Mosque_mine_L_Mod1_74
+    400926: Mosque_mine_L_Mod1_75
+    400928: Mosque_mine_L_Mod1_76
+    400930: Mosque_mine_L_Mod1_77
+    400932: Mosque_mine_L_Mod1_78
+    400934: Mosque_mine_L_Mod1_79
+    400936: Mosque_mine_L_Mod1_8
+    400938: Mosque_mine_L_Mod1_80
+    400940: Mosque_mine_L_Mod1_81
+    400942: Mosque_mine_L_Mod1_82
+    400944: Mosque_mine_L_Mod1_83
+    400946: Mosque_mine_L_Mod1_84
+    400948: Mosque_mine_L_Mod1_85
+    400950: Mosque_mine_L_Mod1_86
+    400952: Mosque_mine_L_Mod1_87
+    400954: Mosque_mine_L_Mod1_88
+    400956: Mosque_mine_L_Mod1_89
+    400958: Mosque_mine_L_Mod1_9
+    400960: Mosque_mine_L_Mod1_90
+    400962: Mosque_mine_L_Mod1_91
+    400964: Mosque_mine_L_Mod1_92
+    400966: Mosque_mine_L_Mod1_93
+    400968: Mosque_mine_L_Mod1_94
+    400970: Mosque_mine_L_Mod1_95
+    400972: Mosque_mine_L_Mod1_96
+    400974: Mosque_mine_L_Mod1_97
+    400976: Mosque_mine_L_Mod1_98
+    400978: Mosque_mine_L_Mod1_99
+    400980: pCube8
+    400982: pCube9
+    400984: polySurface470
+    400986: group86
+    400988: Mod 2
+    400990: Mod1 1
+    400992: Mod3 1
+    400994: Mod5 1
+    2100000: blinn2
+    2100002: pasted__readstones_building_readstones_building_roof_dome_roof_pinter1
+    2100004: pasted__readstones_v1_Ny-kupolmapping
+    2100006: pasted__readstones_v1_blinn1
+    2100008: pasted__moon_pointer1
+    2100010: blinn4
+    2100012: blinn5
+    2100014: blinn6
+    2100016: readstones_v1_blinn5
+    2100018: readstones_v1_blinn6
+    2100020: readstones_v1_blinn7
+    2100022: readstones_v1_blinn8
+    2100024: readstones_building_roof_dome_circle_partan_mat
+    2100026: readstones_v1_lambert3
+    2100028: readstones_v1_Ny-kupolmapping
+    2100030: readstones_building_readstones_building_roof_dome_roof_pinter1
+    2100032: readstones_v1_blinn1
+    2100034: readstones_v1_blinn4
+    2100036: readstones_v1_blinn3
+    2100038: readstones_v1_lambert4
+    2100040: readstones_v1_lambert2
+    2100042: blinn1
+    2100044: blinn28
+    2100046: readstones_v1
+    2100048: moon_pointer6
+    2100050: roof_pinter1
+    2100052: readstones_v1_blinn9
+    2300000: boundary_wall1
+    2300002: boundary_wall1 1
+    2300004: boundary_wall1 10
+    2300006: boundary_wall1 11
+    2300008: boundary_wall1 12
+    2300010: boundary_wall1 13
+    2300012: boundary_wall1 14
+    2300014: boundary_wall1 15
+    2300016: boundary_wall1 16
+    2300018: boundary_wall1 17
+    2300020: boundary_wall1 18
+    2300022: boundary_wall1 19
+    2300024: boundary_wall1 2
+    2300026: boundary_wall1 20
+    2300028: boundary_wall1 21
+    2300030: boundary_wall1 22
+    2300032: boundary_wall1 23
+    2300034: boundary_wall1 24
+    2300036: boundary_wall1 25
+    2300038: boundary_wall1 26
+    2300040: boundary_wall1 3
+    2300042: boundary_wall1 4
+    2300044: boundary_wall1 5
+    2300046: boundary_wall1 6
+    2300048: boundary_wall1 7
+    2300050: boundary_wall1 8
+    2300052: boundary_wall1 9
+    2300054: boundary_wall10
+    2300056: boundary_wall10 1
+    2300058: boundary_wall10 10
+    2300060: boundary_wall10 11
+    2300062: boundary_wall10 12
+    2300064: boundary_wall10 13
+    2300066: boundary_wall10 14
+    2300068: boundary_wall10 15
+    2300070: boundary_wall10 16
+    2300072: boundary_wall10 17
+    2300074: boundary_wall10 18
+    2300076: boundary_wall10 19
+    2300078: boundary_wall10 2
+    2300080: boundary_wall10 20
+    2300082: boundary_wall10 21
+    2300084: boundary_wall10 22
+    2300086: boundary_wall10 23
+    2300088: boundary_wall10 24
+    2300090: boundary_wall10 25
+    2300092: boundary_wall10 26
+    2300094: boundary_wall10 3
+    2300096: boundary_wall10 4
+    2300098: boundary_wall10 5
+    2300100: boundary_wall10 6
+    2300102: boundary_wall10 7
+    2300104: boundary_wall10 8
+    2300106: boundary_wall10 9
+    2300108: boundary_wall11
+    2300110: boundary_wall11 1
+    2300112: boundary_wall11 10
+    2300114: boundary_wall11 11
+    2300116: boundary_wall11 12
+    2300118: boundary_wall11 13
+    2300120: boundary_wall11 14
+    2300122: boundary_wall11 15
+    2300124: boundary_wall11 16
+    2300126: boundary_wall11 17
+    2300128: boundary_wall11 18
+    2300130: boundary_wall11 19
+    2300132: boundary_wall11 2
+    2300134: boundary_wall11 20
+    2300136: boundary_wall11 21
+    2300138: boundary_wall11 22
+    2300140: boundary_wall11 23
+    2300142: boundary_wall11 24
+    2300144: boundary_wall11 25
+    2300146: boundary_wall11 26
+    2300148: boundary_wall11 3
+    2300150: boundary_wall11 4
+    2300152: boundary_wall11 5
+    2300154: boundary_wall11 6
+    2300156: boundary_wall11 7
+    2300158: boundary_wall11 8
+    2300160: boundary_wall11 9
+    2300162: boundary_wall12
+    2300164: boundary_wall12 1
+    2300166: boundary_wall12 10
+    2300168: boundary_wall12 11
+    2300170: boundary_wall12 12
+    2300172: boundary_wall12 13
+    2300174: boundary_wall12 14
+    2300176: boundary_wall12 15
+    2300178: boundary_wall12 16
+    2300180: boundary_wall12 17
+    2300182: boundary_wall12 18
+    2300184: boundary_wall12 19
+    2300186: boundary_wall12 2
+    2300188: boundary_wall12 20
+    2300190: boundary_wall12 21
+    2300192: boundary_wall12 22
+    2300194: boundary_wall12 23
+    2300196: boundary_wall12 24
+    2300198: boundary_wall12 25
+    2300200: boundary_wall12 26
+    2300202: boundary_wall12 3
+    2300204: boundary_wall12 4
+    2300206: boundary_wall12 5
+    2300208: boundary_wall12 6
+    2300210: boundary_wall12 7
+    2300212: boundary_wall12 8
+    2300214: boundary_wall12 9
+    2300216: boundary_wall2
+    2300218: boundary_wall2 1
+    2300220: boundary_wall2 10
+    2300222: boundary_wall2 11
+    2300224: boundary_wall2 12
+    2300226: boundary_wall2 13
+    2300228: boundary_wall2 14
+    2300230: boundary_wall2 15
+    2300232: boundary_wall2 16
+    2300234: boundary_wall2 17
+    2300236: boundary_wall2 18
+    2300238: boundary_wall2 19
+    2300240: boundary_wall2 2
+    2300242: boundary_wall2 20
+    2300244: boundary_wall2 21
+    2300246: boundary_wall2 22
+    2300248: boundary_wall2 23
+    2300250: boundary_wall2 24
+    2300252: boundary_wall2 25
+    2300254: boundary_wall2 26
+    2300256: boundary_wall2 3
+    2300258: boundary_wall2 4
+    2300260: boundary_wall2 5
+    2300262: boundary_wall2 6
+    2300264: boundary_wall2 7
+    2300266: boundary_wall2 8
+    2300268: boundary_wall2 9
+    2300270: boundary_wall3
+    2300272: boundary_wall3 1
+    2300274: boundary_wall3 10
+    2300276: boundary_wall3 11
+    2300278: boundary_wall3 12
+    2300280: boundary_wall3 13
+    2300282: boundary_wall3 14
+    2300284: boundary_wall3 15
+    2300286: boundary_wall3 16
+    2300288: boundary_wall3 17
+    2300290: boundary_wall3 18
+    2300292: boundary_wall3 19
+    2300294: boundary_wall3 2
+    2300296: boundary_wall3 20
+    2300298: boundary_wall3 21
+    2300300: boundary_wall3 22
+    2300302: boundary_wall3 23
+    2300304: boundary_wall3 24
+    2300306: boundary_wall3 25
+    2300308: boundary_wall3 26
+    2300310: boundary_wall3 3
+    2300312: boundary_wall3 4
+    2300314: boundary_wall3 5
+    2300316: boundary_wall3 6
+    2300318: boundary_wall3 7
+    2300320: boundary_wall3 8
+    2300322: boundary_wall3 9
+    2300324: boundary_wall4
+    2300326: boundary_wall4 1
+    2300328: boundary_wall4 10
+    2300330: boundary_wall4 11
+    2300332: boundary_wall4 12
+    2300334: boundary_wall4 13
+    2300336: boundary_wall4 14
+    2300338: boundary_wall4 15
+    2300340: boundary_wall4 16
+    2300342: boundary_wall4 17
+    2300344: boundary_wall4 18
+    2300346: boundary_wall4 19
+    2300348: boundary_wall4 2
+    2300350: boundary_wall4 20
+    2300352: boundary_wall4 21
+    2300354: boundary_wall4 22
+    2300356: boundary_wall4 23
+    2300358: boundary_wall4 24
+    2300360: boundary_wall4 25
+    2300362: boundary_wall4 26
+    2300364: boundary_wall4 3
+    2300366: boundary_wall4 4
+    2300368: boundary_wall4 5
+    2300370: boundary_wall4 6
+    2300372: boundary_wall4 7
+    2300374: boundary_wall4 8
+    2300376: boundary_wall4 9
+    2300378: boundary_wall5
+    2300380: boundary_wall5 1
+    2300382: boundary_wall5 10
+    2300384: boundary_wall5 11
+    2300386: boundary_wall5 12
+    2300388: boundary_wall5 13
+    2300390: boundary_wall5 14
+    2300392: boundary_wall5 15
+    2300394: boundary_wall5 16
+    2300396: boundary_wall5 17
+    2300398: boundary_wall5 18
+    2300400: boundary_wall5 19
+    2300402: boundary_wall5 2
+    2300404: boundary_wall5 20
+    2300406: boundary_wall5 21
+    2300408: boundary_wall5 22
+    2300410: boundary_wall5 23
+    2300412: boundary_wall5 24
+    2300414: boundary_wall5 25
+    2300416: boundary_wall5 26
+    2300418: boundary_wall5 3
+    2300420: boundary_wall5 4
+    2300422: boundary_wall5 5
+    2300424: boundary_wall5 6
+    2300426: boundary_wall5 7
+    2300428: boundary_wall5 8
+    2300430: boundary_wall5 9
+    2300432: boundary_wall6
+    2300434: boundary_wall6 1
+    2300436: boundary_wall6 10
+    2300438: boundary_wall6 11
+    2300440: boundary_wall6 12
+    2300442: boundary_wall6 13
+    2300444: boundary_wall6 14
+    2300446: boundary_wall6 15
+    2300448: boundary_wall6 16
+    2300450: boundary_wall6 17
+    2300452: boundary_wall6 18
+    2300454: boundary_wall6 19
+    2300456: boundary_wall6 2
+    2300458: boundary_wall6 20
+    2300460: boundary_wall6 21
+    2300462: boundary_wall6 22
+    2300464: boundary_wall6 23
+    2300466: boundary_wall6 24
+    2300468: boundary_wall6 25
+    2300470: boundary_wall6 26
+    2300472: boundary_wall6 3
+    2300474: boundary_wall6 4
+    2300476: boundary_wall6 5
+    2300478: boundary_wall6 6
+    2300480: boundary_wall6 7
+    2300482: boundary_wall6 8
+    2300484: boundary_wall6 9
+    2300486: boundary_wall7
+    2300488: boundary_wall7 1
+    2300490: boundary_wall7 10
+    2300492: boundary_wall7 11
+    2300494: boundary_wall7 12
+    2300496: boundary_wall7 13
+    2300498: boundary_wall7 14
+    2300500: boundary_wall7 15
+    2300502: boundary_wall7 16
+    2300504: boundary_wall7 17
+    2300506: boundary_wall7 18
+    2300508: boundary_wall7 19
+    2300510: boundary_wall7 2
+    2300512: boundary_wall7 20
+    2300514: boundary_wall7 21
+    2300516: boundary_wall7 22
+    2300518: boundary_wall7 23
+    2300520: boundary_wall7 24
+    2300522: boundary_wall7 25
+    2300524: boundary_wall7 26
+    2300526: boundary_wall7 3
+    2300528: boundary_wall7 4
+    2300530: boundary_wall7 5
+    2300532: boundary_wall7 6
+    2300534: boundary_wall7 7
+    2300536: boundary_wall7 8
+    2300538: boundary_wall7 9
+    2300540: boundary_wall8
+    2300542: boundary_wall8 1
+    2300544: boundary_wall8 10
+    2300546: boundary_wall8 11
+    2300548: boundary_wall8 12
+    2300550: boundary_wall8 13
+    2300552: boundary_wall8 14
+    2300554: boundary_wall8 15
+    2300556: boundary_wall8 16
+    2300558: boundary_wall8 17
+    2300560: boundary_wall8 18
+    2300562: boundary_wall8 19
+    2300564: boundary_wall8 2
+    2300566: boundary_wall8 20
+    2300568: boundary_wall8 21
+    2300570: boundary_wall8 22
+    2300572: boundary_wall8 23
+    2300574: boundary_wall8 24
+    2300576: boundary_wall8 25
+    2300578: boundary_wall8 26
+    2300580: boundary_wall8 3
+    2300582: boundary_wall8 4
+    2300584: boundary_wall8 5
+    2300586: boundary_wall8 6
+    2300588: boundary_wall8 7
+    2300590: boundary_wall8 8
+    2300592: boundary_wall8 9
+    2300594: boundary_wall9
+    2300596: boundary_wall9 1
+    2300598: boundary_wall9 10
+    2300600: boundary_wall9 11
+    2300602: boundary_wall9 12
+    2300604: boundary_wall9 13
+    2300606: boundary_wall9 14
+    2300608: boundary_wall9 15
+    2300610: boundary_wall9 16
+    2300612: boundary_wall9 17
+    2300614: boundary_wall9 18
+    2300616: boundary_wall9 19
+    2300618: boundary_wall9 2
+    2300620: boundary_wall9 20
+    2300622: boundary_wall9 21
+    2300624: boundary_wall9 22
+    2300626: boundary_wall9 23
+    2300628: boundary_wall9 24
+    2300630: boundary_wall9 25
+    2300632: boundary_wall9 26
+    2300634: boundary_wall9 3
+    2300636: boundary_wall9 4
+    2300638: boundary_wall9 5
+    2300640: boundary_wall9 6
+    2300642: boundary_wall9 7
+    2300644: boundary_wall9 8
+    2300646: boundary_wall9 9
+    2300648: boundary_wallv
+    2300650: boundary_wallv 1
+    2300652: boundary_wallv 10
+    2300654: boundary_wallv 11
+    2300656: boundary_wallv 12
+    2300658: boundary_wallv 13
+    2300660: boundary_wallv 14
+    2300662: boundary_wallv 15
+    2300664: boundary_wallv 16
+    2300666: boundary_wallv 17
+    2300668: boundary_wallv 18
+    2300670: boundary_wallv 19
+    2300672: boundary_wallv 2
+    2300674: boundary_wallv 20
+    2300676: boundary_wallv 21
+    2300678: boundary_wallv 22
+    2300680: boundary_wallv 23
+    2300682: boundary_wallv 24
+    2300684: boundary_wallv 25
+    2300686: boundary_wallv 26
+    2300688: boundary_wallv 3
+    2300690: boundary_wallv 4
+    2300692: boundary_wallv 5
+    2300694: boundary_wallv 6
+    2300696: boundary_wallv 7
+    2300698: boundary_wallv 8
+    2300700: boundary_wallv 9
+    2300702: group18_pCube30
+    2300704: group18_pCube31
+    2300706: Mod
+    2300708: Mod 1
+    2300710: Mod1
+    2300712: Mod2
+    2300714: Mod3
+    2300716: Mod4
+    2300718: Mod5
+    2300720: Mosque_mine_L_Mod1_1
+    2300722: Mosque_mine_L_Mod1_10
+    2300724: Mosque_mine_L_Mod1_100
+    2300726: Mosque_mine_L_Mod1_101
+    2300728: Mosque_mine_L_Mod1_102
+    2300730: Mosque_mine_L_Mod1_11
+    2300732: Mosque_mine_L_Mod1_12
+    2300734: Mosque_mine_L_Mod1_13
+    2300736: Mosque_mine_L_Mod1_14
+    2300738: Mosque_mine_L_Mod1_15
+    2300740: Mosque_mine_L_Mod1_16
+    2300742: Mosque_mine_L_Mod1_17
+    2300744: Mosque_mine_L_Mod1_18
+    2300746: Mosque_mine_L_Mod1_19
+    2300748: Mosque_mine_L_Mod1_20
+    2300750: Mosque_mine_L_Mod1_21
+    2300752: Mosque_mine_L_Mod1_22
+    2300754: Mosque_mine_L_Mod1_23
+    2300756: Mosque_mine_L_Mod1_24
+    2300758: Mosque_mine_L_Mod1_25
+    2300760: Mosque_mine_L_Mod1_26
+    2300762: Mosque_mine_L_Mod1_27
+    2300764: Mosque_mine_L_Mod1_28
+    2300766: Mosque_mine_L_Mod1_29
+    2300768: Mosque_mine_L_Mod1_3
+    2300770: Mosque_mine_L_Mod1_30
+    2300772: Mosque_mine_L_Mod1_31
+    2300774: Mosque_mine_L_Mod1_32
+    2300776: Mosque_mine_L_Mod1_33
+    2300778: Mosque_mine_L_Mod1_34
+    2300780: Mosque_mine_L_Mod1_35
+    2300782: Mosque_mine_L_Mod1_38
+    2300784: Mosque_mine_L_Mod1_39
+    2300786: Mosque_mine_L_Mod1_4
+    2300788: Mosque_mine_L_Mod1_40
+    2300790: Mosque_mine_L_Mod1_41
+    2300792: Mosque_mine_L_Mod1_42
+    2300794: Mosque_mine_L_Mod1_43
+    2300796: Mosque_mine_L_Mod1_44
+    2300798: Mosque_mine_L_Mod1_45
+    2300800: Mosque_mine_L_Mod1_46
+    2300802: Mosque_mine_L_Mod1_48
+    2300804: Mosque_mine_L_Mod1_49
+    2300806: Mosque_mine_L_Mod1_5
+    2300808: Mosque_mine_L_Mod1_51
+    2300810: Mosque_mine_L_Mod1_52
+    2300812: Mosque_mine_L_Mod1_53
+    2300814: Mosque_mine_L_Mod1_54
+    2300816: Mosque_mine_L_Mod1_55
+    2300818: Mosque_mine_L_Mod1_56
+    2300820: Mosque_mine_L_Mod1_57
+    2300822: Mosque_mine_L_Mod1_58
+    2300824: Mosque_mine_L_Mod1_59
+    2300826: Mosque_mine_L_Mod1_6
+    2300828: Mosque_mine_L_Mod1_60
+    2300830: Mosque_mine_L_Mod1_61
+    2300832: Mosque_mine_L_Mod1_62
+    2300834: Mosque_mine_L_Mod1_63
+    2300836: Mosque_mine_L_Mod1_64
+    2300838: Mosque_mine_L_Mod1_65
+    2300840: Mosque_mine_L_Mod1_67
+    2300842: Mosque_mine_L_Mod1_68
+    2300844: Mosque_mine_L_Mod1_69
+    2300846: Mosque_mine_L_Mod1_7
+    2300848: Mosque_mine_L_Mod1_70
+    2300850: Mosque_mine_L_Mod1_71
+    2300852: Mosque_mine_L_Mod1_72
+    2300854: Mosque_mine_L_Mod1_73
+    2300856: Mosque_mine_L_Mod1_74
+    2300858: Mosque_mine_L_Mod1_75
+    2300860: Mosque_mine_L_Mod1_76
+    2300862: Mosque_mine_L_Mod1_77
+    2300864: Mosque_mine_L_Mod1_78
+    2300866: Mosque_mine_L_Mod1_79
+    2300868: Mosque_mine_L_Mod1_8
+    2300870: Mosque_mine_L_Mod1_80
+    2300872: Mosque_mine_L_Mod1_81
+    2300874: Mosque_mine_L_Mod1_82
+    2300876: Mosque_mine_L_Mod1_83
+    2300878: Mosque_mine_L_Mod1_84
+    2300880: Mosque_mine_L_Mod1_85
+    2300882: Mosque_mine_L_Mod1_86
+    2300884: Mosque_mine_L_Mod1_87
+    2300886: Mosque_mine_L_Mod1_88
+    2300888: Mosque_mine_L_Mod1_89
+    2300890: Mosque_mine_L_Mod1_9
+    2300892: Mosque_mine_L_Mod1_90
+    2300894: Mosque_mine_L_Mod1_91
+    2300896: Mosque_mine_L_Mod1_92
+    2300898: Mosque_mine_L_Mod1_93
+    2300900: Mosque_mine_L_Mod1_94
+    2300902: Mosque_mine_L_Mod1_95
+    2300904: Mosque_mine_L_Mod1_96
+    2300906: Mosque_mine_L_Mod1_97
+    2300908: Mosque_mine_L_Mod1_98
+    2300910: Mosque_mine_L_Mod1_99
+    2300912: pCube8
+    2300914: pCube9
+    2300916: polySurface470
+    2300918: Mod 2
+    2300920: Mod1 1
+    2300922: Mod3 1
+    2300924: Mod5 1
+    3300000: boundary_wall1
+    3300002: boundary_wall1 1
+    3300004: boundary_wall1 10
+    3300006: boundary_wall1 11
+    3300008: boundary_wall1 12
+    3300010: boundary_wall1 13
+    3300012: boundary_wall1 14
+    3300014: boundary_wall1 15
+    3300016: boundary_wall1 16
+    3300018: boundary_wall1 17
+    3300020: boundary_wall1 18
+    3300022: boundary_wall1 19
+    3300024: boundary_wall1 2
+    3300026: boundary_wall1 20
+    3300028: boundary_wall1 21
+    3300030: boundary_wall1 22
+    3300032: boundary_wall1 23
+    3300034: boundary_wall1 24
+    3300036: boundary_wall1 25
+    3300038: boundary_wall1 26
+    3300040: boundary_wall1 3
+    3300042: boundary_wall1 4
+    3300044: boundary_wall1 5
+    3300046: boundary_wall1 6
+    3300048: boundary_wall1 7
+    3300050: boundary_wall1 8
+    3300052: boundary_wall1 9
+    3300054: boundary_wall10
+    3300056: boundary_wall10 1
+    3300058: boundary_wall10 10
+    3300060: boundary_wall10 11
+    3300062: boundary_wall10 12
+    3300064: boundary_wall10 13
+    3300066: boundary_wall10 14
+    3300068: boundary_wall10 15
+    3300070: boundary_wall10 16
+    3300072: boundary_wall10 17
+    3300074: boundary_wall10 18
+    3300076: boundary_wall10 19
+    3300078: boundary_wall10 2
+    3300080: boundary_wall10 20
+    3300082: boundary_wall10 21
+    3300084: boundary_wall10 22
+    3300086: boundary_wall10 23
+    3300088: boundary_wall10 24
+    3300090: boundary_wall10 25
+    3300092: boundary_wall10 26
+    3300094: boundary_wall10 3
+    3300096: boundary_wall10 4
+    3300098: boundary_wall10 5
+    3300100: boundary_wall10 6
+    3300102: boundary_wall10 7
+    3300104: boundary_wall10 8
+    3300106: boundary_wall10 9
+    3300108: boundary_wall11
+    3300110: boundary_wall11 1
+    3300112: boundary_wall11 10
+    3300114: boundary_wall11 11
+    3300116: boundary_wall11 12
+    3300118: boundary_wall11 13
+    3300120: boundary_wall11 14
+    3300122: boundary_wall11 15
+    3300124: boundary_wall11 16
+    3300126: boundary_wall11 17
+    3300128: boundary_wall11 18
+    3300130: boundary_wall11 19
+    3300132: boundary_wall11 2
+    3300134: boundary_wall11 20
+    3300136: boundary_wall11 21
+    3300138: boundary_wall11 22
+    3300140: boundary_wall11 23
+    3300142: boundary_wall11 24
+    3300144: boundary_wall11 25
+    3300146: boundary_wall11 26
+    3300148: boundary_wall11 3
+    3300150: boundary_wall11 4
+    3300152: boundary_wall11 5
+    3300154: boundary_wall11 6
+    3300156: boundary_wall11 7
+    3300158: boundary_wall11 8
+    3300160: boundary_wall11 9
+    3300162: boundary_wall12
+    3300164: boundary_wall12 1
+    3300166: boundary_wall12 10
+    3300168: boundary_wall12 11
+    3300170: boundary_wall12 12
+    3300172: boundary_wall12 13
+    3300174: boundary_wall12 14
+    3300176: boundary_wall12 15
+    3300178: boundary_wall12 16
+    3300180: boundary_wall12 17
+    3300182: boundary_wall12 18
+    3300184: boundary_wall12 19
+    3300186: boundary_wall12 2
+    3300188: boundary_wall12 20
+    3300190: boundary_wall12 21
+    3300192: boundary_wall12 22
+    3300194: boundary_wall12 23
+    3300196: boundary_wall12 24
+    3300198: boundary_wall12 25
+    3300200: boundary_wall12 26
+    3300202: boundary_wall12 3
+    3300204: boundary_wall12 4
+    3300206: boundary_wall12 5
+    3300208: boundary_wall12 6
+    3300210: boundary_wall12 7
+    3300212: boundary_wall12 8
+    3300214: boundary_wall12 9
+    3300216: boundary_wall2
+    3300218: boundary_wall2 1
+    3300220: boundary_wall2 10
+    3300222: boundary_wall2 11
+    3300224: boundary_wall2 12
+    3300226: boundary_wall2 13
+    3300228: boundary_wall2 14
+    3300230: boundary_wall2 15
+    3300232: boundary_wall2 16
+    3300234: boundary_wall2 17
+    3300236: boundary_wall2 18
+    3300238: boundary_wall2 19
+    3300240: boundary_wall2 2
+    3300242: boundary_wall2 20
+    3300244: boundary_wall2 21
+    3300246: boundary_wall2 22
+    3300248: boundary_wall2 23
+    3300250: boundary_wall2 24
+    3300252: boundary_wall2 25
+    3300254: boundary_wall2 26
+    3300256: boundary_wall2 3
+    3300258: boundary_wall2 4
+    3300260: boundary_wall2 5
+    3300262: boundary_wall2 6
+    3300264: boundary_wall2 7
+    3300266: boundary_wall2 8
+    3300268: boundary_wall2 9
+    3300270: boundary_wall3
+    3300272: boundary_wall3 1
+    3300274: boundary_wall3 10
+    3300276: boundary_wall3 11
+    3300278: boundary_wall3 12
+    3300280: boundary_wall3 13
+    3300282: boundary_wall3 14
+    3300284: boundary_wall3 15
+    3300286: boundary_wall3 16
+    3300288: boundary_wall3 17
+    3300290: boundary_wall3 18
+    3300292: boundary_wall3 19
+    3300294: boundary_wall3 2
+    3300296: boundary_wall3 20
+    3300298: boundary_wall3 21
+    3300300: boundary_wall3 22
+    3300302: boundary_wall3 23
+    3300304: boundary_wall3 24
+    3300306: boundary_wall3 25
+    3300308: boundary_wall3 26
+    3300310: boundary_wall3 3
+    3300312: boundary_wall3 4
+    3300314: boundary_wall3 5
+    3300316: boundary_wall3 6
+    3300318: boundary_wall3 7
+    3300320: boundary_wall3 8
+    3300322: boundary_wall3 9
+    3300324: boundary_wall4
+    3300326: boundary_wall4 1
+    3300328: boundary_wall4 10
+    3300330: boundary_wall4 11
+    3300332: boundary_wall4 12
+    3300334: boundary_wall4 13
+    3300336: boundary_wall4 14
+    3300338: boundary_wall4 15
+    3300340: boundary_wall4 16
+    3300342: boundary_wall4 17
+    3300344: boundary_wall4 18
+    3300346: boundary_wall4 19
+    3300348: boundary_wall4 2
+    3300350: boundary_wall4 20
+    3300352: boundary_wall4 21
+    3300354: boundary_wall4 22
+    3300356: boundary_wall4 23
+    3300358: boundary_wall4 24
+    3300360: boundary_wall4 25
+    3300362: boundary_wall4 26
+    3300364: boundary_wall4 3
+    3300366: boundary_wall4 4
+    3300368: boundary_wall4 5
+    3300370: boundary_wall4 6
+    3300372: boundary_wall4 7
+    3300374: boundary_wall4 8
+    3300376: boundary_wall4 9
+    3300378: boundary_wall5
+    3300380: boundary_wall5 1
+    3300382: boundary_wall5 10
+    3300384: boundary_wall5 11
+    3300386: boundary_wall5 12
+    3300388: boundary_wall5 13
+    3300390: boundary_wall5 14
+    3300392: boundary_wall5 15
+    3300394: boundary_wall5 16
+    3300396: boundary_wall5 17
+    3300398: boundary_wall5 18
+    3300400: boundary_wall5 19
+    3300402: boundary_wall5 2
+    3300404: boundary_wall5 20
+    3300406: boundary_wall5 21
+    3300408: boundary_wall5 22
+    3300410: boundary_wall5 23
+    3300412: boundary_wall5 24
+    3300414: boundary_wall5 25
+    3300416: boundary_wall5 26
+    3300418: boundary_wall5 3
+    3300420: boundary_wall5 4
+    3300422: boundary_wall5 5
+    3300424: boundary_wall5 6
+    3300426: boundary_wall5 7
+    3300428: boundary_wall5 8
+    3300430: boundary_wall5 9
+    3300432: boundary_wall6
+    3300434: boundary_wall6 1
+    3300436: boundary_wall6 10
+    3300438: boundary_wall6 11
+    3300440: boundary_wall6 12
+    3300442: boundary_wall6 13
+    3300444: boundary_wall6 14
+    3300446: boundary_wall6 15
+    3300448: boundary_wall6 16
+    3300450: boundary_wall6 17
+    3300452: boundary_wall6 18
+    3300454: boundary_wall6 19
+    3300456: boundary_wall6 2
+    3300458: boundary_wall6 20
+    3300460: boundary_wall6 21
+    3300462: boundary_wall6 22
+    3300464: boundary_wall6 23
+    3300466: boundary_wall6 24
+    3300468: boundary_wall6 25
+    3300470: boundary_wall6 26
+    3300472: boundary_wall6 3
+    3300474: boundary_wall6 4
+    3300476: boundary_wall6 5
+    3300478: boundary_wall6 6
+    3300480: boundary_wall6 7
+    3300482: boundary_wall6 8
+    3300484: boundary_wall6 9
+    3300486: boundary_wall7
+    3300488: boundary_wall7 1
+    3300490: boundary_wall7 10
+    3300492: boundary_wall7 11
+    3300494: boundary_wall7 12
+    3300496: boundary_wall7 13
+    3300498: boundary_wall7 14
+    3300500: boundary_wall7 15
+    3300502: boundary_wall7 16
+    3300504: boundary_wall7 17
+    3300506: boundary_wall7 18
+    3300508: boundary_wall7 19
+    3300510: boundary_wall7 2
+    3300512: boundary_wall7 20
+    3300514: boundary_wall7 21
+    3300516: boundary_wall7 22
+    3300518: boundary_wall7 23
+    3300520: boundary_wall7 24
+    3300522: boundary_wall7 25
+    3300524: boundary_wall7 26
+    3300526: boundary_wall7 3
+    3300528: boundary_wall7 4
+    3300530: boundary_wall7 5
+    3300532: boundary_wall7 6
+    3300534: boundary_wall7 7
+    3300536: boundary_wall7 8
+    3300538: boundary_wall7 9
+    3300540: boundary_wall8
+    3300542: boundary_wall8 1
+    3300544: boundary_wall8 10
+    3300546: boundary_wall8 11
+    3300548: boundary_wall8 12
+    3300550: boundary_wall8 13
+    3300552: boundary_wall8 14
+    3300554: boundary_wall8 15
+    3300556: boundary_wall8 16
+    3300558: boundary_wall8 17
+    3300560: boundary_wall8 18
+    3300562: boundary_wall8 19
+    3300564: boundary_wall8 2
+    3300566: boundary_wall8 20
+    3300568: boundary_wall8 21
+    3300570: boundary_wall8 22
+    3300572: boundary_wall8 23
+    3300574: boundary_wall8 24
+    3300576: boundary_wall8 25
+    3300578: boundary_wall8 26
+    3300580: boundary_wall8 3
+    3300582: boundary_wall8 4
+    3300584: boundary_wall8 5
+    3300586: boundary_wall8 6
+    3300588: boundary_wall8 7
+    3300590: boundary_wall8 8
+    3300592: boundary_wall8 9
+    3300594: boundary_wall9
+    3300596: boundary_wall9 1
+    3300598: boundary_wall9 10
+    3300600: boundary_wall9 11
+    3300602: boundary_wall9 12
+    3300604: boundary_wall9 13
+    3300606: boundary_wall9 14
+    3300608: boundary_wall9 15
+    3300610: boundary_wall9 16
+    3300612: boundary_wall9 17
+    3300614: boundary_wall9 18
+    3300616: boundary_wall9 19
+    3300618: boundary_wall9 2
+    3300620: boundary_wall9 20
+    3300622: boundary_wall9 21
+    3300624: boundary_wall9 22
+    3300626: boundary_wall9 23
+    3300628: boundary_wall9 24
+    3300630: boundary_wall9 25
+    3300632: boundary_wall9 26
+    3300634: boundary_wall9 3
+    3300636: boundary_wall9 4
+    3300638: boundary_wall9 5
+    3300640: boundary_wall9 6
+    3300642: boundary_wall9 7
+    3300644: boundary_wall9 8
+    3300646: boundary_wall9 9
+    3300648: boundary_wallv
+    3300650: boundary_wallv 1
+    3300652: boundary_wallv 10
+    3300654: boundary_wallv 11
+    3300656: boundary_wallv 12
+    3300658: boundary_wallv 13
+    3300660: boundary_wallv 14
+    3300662: boundary_wallv 15
+    3300664: boundary_wallv 16
+    3300666: boundary_wallv 17
+    3300668: boundary_wallv 18
+    3300670: boundary_wallv 19
+    3300672: boundary_wallv 2
+    3300674: boundary_wallv 20
+    3300676: boundary_wallv 21
+    3300678: boundary_wallv 22
+    3300680: boundary_wallv 23
+    3300682: boundary_wallv 24
+    3300684: boundary_wallv 25
+    3300686: boundary_wallv 26
+    3300688: boundary_wallv 3
+    3300690: boundary_wallv 4
+    3300692: boundary_wallv 5
+    3300694: boundary_wallv 6
+    3300696: boundary_wallv 7
+    3300698: boundary_wallv 8
+    3300700: boundary_wallv 9
+    3300702: group18_pCube30
+    3300704: group18_pCube31
+    3300706: Mod
+    3300708: Mod 1
+    3300710: Mod1
+    3300712: Mod2
+    3300714: Mod3
+    3300716: Mod4
+    3300718: Mod5
+    3300720: Mosque_mine_L_Mod1_1
+    3300722: Mosque_mine_L_Mod1_10
+    3300724: Mosque_mine_L_Mod1_100
+    3300726: Mosque_mine_L_Mod1_101
+    3300728: Mosque_mine_L_Mod1_102
+    3300730: Mosque_mine_L_Mod1_11
+    3300732: Mosque_mine_L_Mod1_12
+    3300734: Mosque_mine_L_Mod1_13
+    3300736: Mosque_mine_L_Mod1_14
+    3300738: Mosque_mine_L_Mod1_15
+    3300740: Mosque_mine_L_Mod1_16
+    3300742: Mosque_mine_L_Mod1_17
+    3300744: Mosque_mine_L_Mod1_18
+    3300746: Mosque_mine_L_Mod1_19
+    3300748: Mosque_mine_L_Mod1_20
+    3300750: Mosque_mine_L_Mod1_21
+    3300752: Mosque_mine_L_Mod1_22
+    3300754: Mosque_mine_L_Mod1_23
+    3300756: Mosque_mine_L_Mod1_24
+    3300758: Mosque_mine_L_Mod1_25
+    3300760: Mosque_mine_L_Mod1_26
+    3300762: Mosque_mine_L_Mod1_27
+    3300764: Mosque_mine_L_Mod1_28
+    3300766: Mosque_mine_L_Mod1_29
+    3300768: Mosque_mine_L_Mod1_3
+    3300770: Mosque_mine_L_Mod1_30
+    3300772: Mosque_mine_L_Mod1_31
+    3300774: Mosque_mine_L_Mod1_32
+    3300776: Mosque_mine_L_Mod1_33
+    3300778: Mosque_mine_L_Mod1_34
+    3300780: Mosque_mine_L_Mod1_35
+    3300782: Mosque_mine_L_Mod1_38
+    3300784: Mosque_mine_L_Mod1_39
+    3300786: Mosque_mine_L_Mod1_4
+    3300788: Mosque_mine_L_Mod1_40
+    3300790: Mosque_mine_L_Mod1_41
+    3300792: Mosque_mine_L_Mod1_42
+    3300794: Mosque_mine_L_Mod1_43
+    3300796: Mosque_mine_L_Mod1_44
+    3300798: Mosque_mine_L_Mod1_45
+    3300800: Mosque_mine_L_Mod1_46
+    3300802: Mosque_mine_L_Mod1_48
+    3300804: Mosque_mine_L_Mod1_49
+    3300806: Mosque_mine_L_Mod1_5
+    3300808: Mosque_mine_L_Mod1_51
+    3300810: Mosque_mine_L_Mod1_52
+    3300812: Mosque_mine_L_Mod1_53
+    3300814: Mosque_mine_L_Mod1_54
+    3300816: Mosque_mine_L_Mod1_55
+    3300818: Mosque_mine_L_Mod1_56
+    3300820: Mosque_mine_L_Mod1_57
+    3300822: Mosque_mine_L_Mod1_58
+    3300824: Mosque_mine_L_Mod1_59
+    3300826: Mosque_mine_L_Mod1_6
+    3300828: Mosque_mine_L_Mod1_60
+    3300830: Mosque_mine_L_Mod1_61
+    3300832: Mosque_mine_L_Mod1_62
+    3300834: Mosque_mine_L_Mod1_63
+    3300836: Mosque_mine_L_Mod1_64
+    3300838: Mosque_mine_L_Mod1_65
+    3300840: Mosque_mine_L_Mod1_67
+    3300842: Mosque_mine_L_Mod1_68
+    3300844: Mosque_mine_L_Mod1_69
+    3300846: Mosque_mine_L_Mod1_7
+    3300848: Mosque_mine_L_Mod1_70
+    3300850: Mosque_mine_L_Mod1_71
+    3300852: Mosque_mine_L_Mod1_72
+    3300854: Mosque_mine_L_Mod1_73
+    3300856: Mosque_mine_L_Mod1_74
+    3300858: Mosque_mine_L_Mod1_75
+    3300860: Mosque_mine_L_Mod1_76
+    3300862: Mosque_mine_L_Mod1_77
+    3300864: Mosque_mine_L_Mod1_78
+    3300866: Mosque_mine_L_Mod1_79
+    3300868: Mosque_mine_L_Mod1_8
+    3300870: Mosque_mine_L_Mod1_80
+    3300872: Mosque_mine_L_Mod1_81
+    3300874: Mosque_mine_L_Mod1_82
+    3300876: Mosque_mine_L_Mod1_83
+    3300878: Mosque_mine_L_Mod1_84
+    3300880: Mosque_mine_L_Mod1_85
+    3300882: Mosque_mine_L_Mod1_86
+    3300884: Mosque_mine_L_Mod1_87
+    3300886: Mosque_mine_L_Mod1_88
+    3300888: Mosque_mine_L_Mod1_89
+    3300890: Mosque_mine_L_Mod1_9
+    3300892: Mosque_mine_L_Mod1_90
+    3300894: Mosque_mine_L_Mod1_91
+    3300896: Mosque_mine_L_Mod1_92
+    3300898: Mosque_mine_L_Mod1_93
+    3300900: Mosque_mine_L_Mod1_94
+    3300902: Mosque_mine_L_Mod1_95
+    3300904: Mosque_mine_L_Mod1_96
+    3300906: Mosque_mine_L_Mod1_97
+    3300908: Mosque_mine_L_Mod1_98
+    3300910: Mosque_mine_L_Mod1_99
+    3300912: pCube8
+    3300914: pCube9
+    3300916: polySurface470
+    3300918: Mod 2
+    3300920: Mod1 1
+    3300922: Mod3 1
+    3300924: Mod5 1
+    4300000: Mod
+    4300002: Mod1
+    4300004: Mod2
+    4300006: Mod
+    4300008: Mod5
+    4300010: Mod3
+    4300012: Mod4
+    4300014: pCube8
+    4300016: pCube9
+    4300018: polySurface470
+    4300020: boundary_wallv
+    4300022: boundary_wall1
+    4300024: boundary_wall2
+    4300026: boundary_wall3
+    4300028: boundary_wall4
+    4300030: boundary_wall5
+    4300032: boundary_wall6
+    4300034: boundary_wall7
+    4300036: boundary_wall8
+    4300038: boundary_wall9
+    4300040: boundary_wall10
+    4300042: boundary_wall11
+    4300044: boundary_wall12
+    4300046: boundary_wallv
+    4300048: boundary_wall1
+    4300050: boundary_wall2
+    4300052: boundary_wall3
+    4300054: boundary_wall4
+    4300056: boundary_wall5
+    4300058: boundary_wall6
+    4300060: boundary_wall7
+    4300062: boundary_wall8
+    4300064: boundary_wall9
+    4300066: boundary_wall10
+    4300068: boundary_wall11
+    4300070: boundary_wall12
+    4300072: boundary_wallv
+    4300074: boundary_wall1
+    4300076: boundary_wall2
+    4300078: boundary_wall3
+    4300080: boundary_wall4
+    4300082: boundary_wall5
+    4300084: boundary_wall6
+    4300086: boundary_wall7
+    4300088: boundary_wall8
+    4300090: boundary_wall9
+    4300092: boundary_wall10
+    4300094: boundary_wall11
+    4300096: boundary_wall12
+    4300098: boundary_wallv
+    4300100: boundary_wall1
+    4300102: boundary_wall2
+    4300104: boundary_wall3
+    4300106: boundary_wall4
+    4300108: boundary_wall5
+    4300110: boundary_wall6
+    4300112: boundary_wall7
+    4300114: boundary_wall8
+    4300116: boundary_wall9
+    4300118: boundary_wall10
+    4300120: boundary_wall11
+    4300122: boundary_wall12
+    4300124: boundary_wallv
+    4300126: boundary_wall1
+    4300128: boundary_wall2
+    4300130: boundary_wall3
+    4300132: boundary_wall4
+    4300134: boundary_wall5
+    4300136: boundary_wall6
+    4300138: boundary_wall7
+    4300140: boundary_wall8
+    4300142: boundary_wall9
+    4300144: boundary_wall10
+    4300146: boundary_wall11
+    4300148: boundary_wall12
+    4300150: boundary_wallv
+    4300152: boundary_wall1
+    4300154: boundary_wall2
+    4300156: boundary_wall3
+    4300158: boundary_wall4
+    4300160: boundary_wall5
+    4300162: boundary_wall6
+    4300164: boundary_wall7
+    4300166: boundary_wall8
+    4300168: boundary_wall9
+    4300170: boundary_wall10
+    4300172: boundary_wall11
+    4300174: boundary_wall12
+    4300176: boundary_wallv
+    4300178: boundary_wall1
+    4300180: boundary_wall2
+    4300182: boundary_wall3
+    4300184: boundary_wall4
+    4300186: boundary_wall5
+    4300188: boundary_wall6
+    4300190: boundary_wall7
+    4300192: boundary_wall8
+    4300194: boundary_wall9
+    4300196: boundary_wall10
+    4300198: boundary_wall11
+    4300200: boundary_wall12
+    4300202: boundary_wallv
+    4300204: boundary_wall1
+    4300206: boundary_wall2
+    4300208: boundary_wall3
+    4300210: boundary_wall4
+    4300212: boundary_wall5
+    4300214: boundary_wall6
+    4300216: boundary_wall7
+    4300218: boundary_wall8
+    4300220: boundary_wall9
+    4300222: boundary_wall10
+    4300224: boundary_wall11
+    4300226: boundary_wall12
+    4300228: boundary_wallv
+    4300230: boundary_wall1
+    4300232: boundary_wall2
+    4300234: boundary_wall3
+    4300236: boundary_wall4
+    4300238: boundary_wall5
+    4300240: boundary_wall6
+    4300242: boundary_wall7
+    4300244: boundary_wall8
+    4300246: boundary_wall9
+    4300248: boundary_wall10
+    4300250: boundary_wall11
+    4300252: boundary_wall12
+    4300254: boundary_wallv
+    4300256: boundary_wall1
+    4300258: boundary_wall2
+    4300260: boundary_wall3
+    4300262: boundary_wall4
+    4300264: boundary_wall5
+    4300266: boundary_wall6
+    4300268: boundary_wall7
+    4300270: boundary_wall8
+    4300272: boundary_wall9
+    4300274: boundary_wall10
+    4300276: boundary_wall11
+    4300278: boundary_wall12
+    4300280: boundary_wallv
+    4300282: boundary_wall1
+    4300284: boundary_wall2
+    4300286: boundary_wall3
+    4300288: boundary_wall4
+    4300290: boundary_wall5
+    4300292: boundary_wall6
+    4300294: boundary_wall7
+    4300296: boundary_wall8
+    4300298: boundary_wall9
+    4300300: boundary_wall10
+    4300302: boundary_wall11
+    4300304: boundary_wall12
+    4300306: boundary_wallv
+    4300308: boundary_wall1
+    4300310: boundary_wall2
+    4300312: boundary_wall3
+    4300314: boundary_wall4
+    4300316: boundary_wall5
+    4300318: boundary_wall6
+    4300320: boundary_wall7
+    4300322: boundary_wall8
+    4300324: boundary_wall9
+    4300326: boundary_wall10
+    4300328: boundary_wall11
+    4300330: boundary_wall12
+    4300332: boundary_wallv
+    4300334: boundary_wall1
+    4300336: boundary_wall2
+    4300338: boundary_wall3
+    4300340: boundary_wall4
+    4300342: boundary_wall5
+    4300344: boundary_wall6
+    4300346: boundary_wall7
+    4300348: boundary_wall8
+    4300350: boundary_wall9
+    4300352: boundary_wall10
+    4300354: boundary_wall11
+    4300356: boundary_wall12
+    4300358: boundary_wallv
+    4300360: boundary_wall1
+    4300362: boundary_wall2
+    4300364: boundary_wall3
+    4300366: boundary_wall4
+    4300368: boundary_wall5
+    4300370: boundary_wall6
+    4300372: boundary_wall7
+    4300374: boundary_wall8
+    4300376: boundary_wall9
+    4300378: boundary_wall10
+    4300380: boundary_wall11
+    4300382: boundary_wall12
+    4300384: boundary_wallv
+    4300386: boundary_wall1
+    4300388: boundary_wall2
+    4300390: boundary_wall3
+    4300392: boundary_wall4
+    4300394: boundary_wall5
+    4300396: boundary_wall6
+    4300398: boundary_wall7
+    4300400: boundary_wall8
+    4300402: boundary_wall9
+    4300404: boundary_wall10
+    4300406: boundary_wall11
+    4300408: boundary_wall12
+    4300410: boundary_wallv
+    4300412: boundary_wall1
+    4300414: boundary_wall2
+    4300416: boundary_wall3
+    4300418: boundary_wall4
+    4300420: boundary_wall5
+    4300422: boundary_wall6
+    4300424: boundary_wall7
+    4300426: boundary_wall8
+    4300428: boundary_wall9
+    4300430: boundary_wall10
+    4300432: boundary_wall11
+    4300434: boundary_wall12
+    4300436: boundary_wallv
+    4300438: boundary_wall1
+    4300440: boundary_wall2
+    4300442: boundary_wall3
+    4300444: boundary_wall4
+    4300446: boundary_wall5
+    4300448: boundary_wall6
+    4300450: boundary_wall7
+    4300452: boundary_wall8
+    4300454: boundary_wall9
+    4300456: boundary_wall10
+    4300458: boundary_wall11
+    4300460: boundary_wall12
+    4300462: boundary_wallv
+    4300464: boundary_wall1
+    4300466: boundary_wall2
+    4300468: boundary_wall3
+    4300470: boundary_wall4
+    4300472: boundary_wall5
+    4300474: boundary_wall6
+    4300476: boundary_wall7
+    4300478: boundary_wall8
+    4300480: boundary_wall9
+    4300482: boundary_wall10
+    4300484: boundary_wall11
+    4300486: boundary_wall12
+    4300488: Mosque_mine_L_Mod1_1
+    4300490: Mosque_mine_L_Mod1_3
+    4300492: Mosque_mine_L_Mod1_4
+    4300494: Mosque_mine_L_Mod1_5
+    4300496: Mosque_mine_L_Mod1_6
+    4300498: Mosque_mine_L_Mod1_7
+    4300500: Mosque_mine_L_Mod1_8
+    4300502: Mosque_mine_L_Mod1_9
+    4300504: Mosque_mine_L_Mod1_10
+    4300506: Mosque_mine_L_Mod1_11
+    4300508: Mosque_mine_L_Mod1_12
+    4300510: Mosque_mine_L_Mod1_13
+    4300512: Mosque_mine_L_Mod1_14
+    4300514: Mosque_mine_L_Mod1_15
+    4300516: Mosque_mine_L_Mod1_16
+    4300518: Mosque_mine_L_Mod1_17
+    4300520: Mosque_mine_L_Mod1_18
+    4300522: Mosque_mine_L_Mod1_19
+    4300524: Mosque_mine_L_Mod1_20
+    4300526: Mosque_mine_L_Mod1_21
+    4300528: Mosque_mine_L_Mod1_22
+    4300530: Mosque_mine_L_Mod1_23
+    4300532: Mosque_mine_L_Mod1_24
+    4300534: Mosque_mine_L_Mod1_25
+    4300536: Mosque_mine_L_Mod1_26
+    4300538: Mosque_mine_L_Mod1_27
+    4300540: Mosque_mine_L_Mod1_28
+    4300542: Mosque_mine_L_Mod1_29
+    4300544: Mosque_mine_L_Mod1_30
+    4300546: Mosque_mine_L_Mod1_31
+    4300548: Mosque_mine_L_Mod1_32
+    4300550: Mosque_mine_L_Mod1_33
+    4300552: Mosque_mine_L_Mod1_34
+    4300554: Mosque_mine_L_Mod1_35
+    4300556: Mosque_mine_L_Mod1_38
+    4300558: Mosque_mine_L_Mod1_39
+    4300560: Mosque_mine_L_Mod1_40
+    4300562: Mosque_mine_L_Mod1_41
+    4300564: Mosque_mine_L_Mod1_42
+    4300566: Mosque_mine_L_Mod1_43
+    4300568: Mosque_mine_L_Mod1_44
+    4300570: Mosque_mine_L_Mod1_45
+    4300572: Mosque_mine_L_Mod1_46
+    4300574: Mosque_mine_L_Mod1_48
+    4300576: Mosque_mine_L_Mod1_49
+    4300578: Mosque_mine_L_Mod1_51
+    4300580: Mosque_mine_L_Mod1_52
+    4300582: Mosque_mine_L_Mod1_53
+    4300584: Mosque_mine_L_Mod1_54
+    4300586: Mosque_mine_L_Mod1_55
+    4300588: Mosque_mine_L_Mod1_56
+    4300590: Mosque_mine_L_Mod1_57
+    4300592: Mosque_mine_L_Mod1_58
+    4300594: Mosque_mine_L_Mod1_59
+    4300596: Mosque_mine_L_Mod1_60
+    4300598: Mosque_mine_L_Mod1_61
+    4300600: Mosque_mine_L_Mod1_62
+    4300602: Mosque_mine_L_Mod1_63
+    4300604: Mosque_mine_L_Mod1_64
+    4300606: Mosque_mine_L_Mod1_65
+    4300608: Mosque_mine_L_Mod1_67
+    4300610: Mosque_mine_L_Mod1_68
+    4300612: Mosque_mine_L_Mod1_69
+    4300614: Mosque_mine_L_Mod1_70
+    4300616: Mosque_mine_L_Mod1_71
+    4300618: Mosque_mine_L_Mod1_72
+    4300620: Mosque_mine_L_Mod1_73
+    4300622: Mosque_mine_L_Mod1_74
+    4300624: Mosque_mine_L_Mod1_75
+    4300626: Mosque_mine_L_Mod1_76
+    4300628: Mosque_mine_L_Mod1_77
+    4300630: Mosque_mine_L_Mod1_78
+    4300632: Mosque_mine_L_Mod1_79
+    4300634: Mosque_mine_L_Mod1_80
+    4300636: Mosque_mine_L_Mod1_81
+    4300638: Mosque_mine_L_Mod1_82
+    4300640: Mosque_mine_L_Mod1_83
+    4300642: Mosque_mine_L_Mod1_84
+    4300644: Mosque_mine_L_Mod1_85
+    4300646: Mosque_mine_L_Mod1_86
+    4300648: Mosque_mine_L_Mod1_87
+    4300650: Mosque_mine_L_Mod1_88
+    4300652: Mosque_mine_L_Mod1_89
+    4300654: Mosque_mine_L_Mod1_90
+    4300656: Mosque_mine_L_Mod1_91
+    4300658: Mosque_mine_L_Mod1_92
+    4300660: Mosque_mine_L_Mod1_93
+    4300662: Mosque_mine_L_Mod1_94
+    4300664: Mosque_mine_L_Mod1_95
+    4300666: Mosque_mine_L_Mod1_96
+    4300668: Mosque_mine_L_Mod1_97
+    4300670: Mosque_mine_L_Mod1_98
+    4300672: Mosque_mine_L_Mod1_99
+    4300674: Mosque_mine_L_Mod1_100
+    4300676: Mosque_mine_L_Mod1_101
+    4300678: Mosque_mine_L_Mod1_102
+    4300680: boundary_wallv
+    4300682: boundary_wall1
+    4300684: boundary_wall2
+    4300686: boundary_wall3
+    4300688: boundary_wall4
+    4300690: boundary_wall5
+    4300692: boundary_wall6
+    4300694: boundary_wall7
+    4300696: boundary_wall8
+    4300698: boundary_wall9
+    4300700: boundary_wall10
+    4300702: boundary_wall11
+    4300704: boundary_wall12
+    4300706: boundary_wallv
+    4300708: boundary_wall1
+    4300710: boundary_wall2
+    4300712: boundary_wall3
+    4300714: boundary_wall4
+    4300716: boundary_wall5
+    4300718: boundary_wall6
+    4300720: boundary_wall7
+    4300722: boundary_wall8
+    4300724: boundary_wall9
+    4300726: boundary_wall10
+    4300728: boundary_wall11
+    4300730: boundary_wall12
+    4300732: boundary_wallv
+    4300734: boundary_wall1
+    4300736: boundary_wall2
+    4300738: boundary_wall3
+    4300740: boundary_wall4
+    4300742: boundary_wall5
+    4300744: boundary_wall6
+    4300746: boundary_wall7
+    4300748: boundary_wall8
+    4300750: boundary_wall9
+    4300752: boundary_wall10
+    4300754: boundary_wall11
+    4300756: boundary_wall12
+    4300758: boundary_wallv
+    4300760: boundary_wall1
+    4300762: boundary_wall2
+    4300764: boundary_wall3
+    4300766: boundary_wall4
+    4300768: boundary_wall5
+    4300770: boundary_wall6
+    4300772: boundary_wall7
+    4300774: boundary_wall8
+    4300776: boundary_wall9
+    4300778: boundary_wall10
+    4300780: boundary_wall11
+    4300782: boundary_wall12
+    4300784: boundary_wallv
+    4300786: boundary_wall1
+    4300788: boundary_wall2
+    4300790: boundary_wall3
+    4300792: boundary_wall4
+    4300794: boundary_wall5
+    4300796: boundary_wall6
+    4300798: boundary_wall7
+    4300800: boundary_wall8
+    4300802: boundary_wall9
+    4300804: boundary_wall10
+    4300806: boundary_wall11
+    4300808: boundary_wall12
+    4300810: boundary_wallv
+    4300812: boundary_wall1
+    4300814: boundary_wall2
+    4300816: boundary_wall3
+    4300818: boundary_wall4
+    4300820: boundary_wall5
+    4300822: boundary_wall6
+    4300824: boundary_wall7
+    4300826: boundary_wall8
+    4300828: boundary_wall9
+    4300830: boundary_wall10
+    4300832: boundary_wall11
+    4300834: boundary_wall12
+    4300836: boundary_wallv
+    4300838: boundary_wall1
+    4300840: boundary_wall2
+    4300842: boundary_wall3
+    4300844: boundary_wall4
+    4300846: boundary_wall5
+    4300848: boundary_wall6
+    4300850: boundary_wall7
+    4300852: boundary_wall8
+    4300854: boundary_wall9
+    4300856: boundary_wall10
+    4300858: boundary_wall11
+    4300860: boundary_wall12
+    4300862: boundary_wallv
+    4300864: boundary_wall1
+    4300866: boundary_wall2
+    4300868: boundary_wall3
+    4300870: boundary_wall4
+    4300872: boundary_wall5
+    4300874: boundary_wall6
+    4300876: boundary_wall7
+    4300878: boundary_wall8
+    4300880: boundary_wall9
+    4300882: boundary_wall10
+    4300884: boundary_wall11
+    4300886: boundary_wall12
+    4300888: boundary_wallv
+    4300890: boundary_wall1
+    4300892: boundary_wall2
+    4300894: boundary_wall3
+    4300896: boundary_wall4
+    4300898: boundary_wall5
+    4300900: boundary_wall6
+    4300902: boundary_wall7
+    4300904: boundary_wall8
+    4300906: boundary_wall9
+    4300908: boundary_wall10
+    4300910: boundary_wall11
+    4300912: boundary_wall12
+    4300914: group18_pCube30
+    4300916: group18_pCube31
+    4300918: Mod
+    4300920: Mod3
+    4300922: Mod1
+    4300924: Mod5
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 0e7594d874443b54fb3438d8bb12c722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: a79091e4df92cb94299ef89d2576f8e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn28
+    second: {fileID: 2100000, guid: 617d968b19b4e444685c32e014eb67b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn4
+    second: {fileID: 2100000, guid: 6f83adcadda704b40a11f442cf265371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5
+    second: {fileID: 2100000, guid: acc600e2d904d05458a9ede445d59653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn6
+    second: {fileID: 2100000, guid: caaca0b2fb815d041bb163726e378d52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moon_pointer6
+    second: {fileID: 2100000, guid: b291543cf55bca0408a265cd76162d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__moon_pointer1
+    second: {fileID: 2100000, guid: 3b5a557029f7ffb4dac9a8d7c27a01d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__readstones_building_readstones_building_roof_dome_roof_pinter1
+    second: {fileID: 2100000, guid: 1065d9e914aad3841b2e1a71bd75c411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__readstones_v1_Ny-kupolmapping
+    second: {fileID: 2100000, guid: f4e876e69613b2f4a879d106f986c892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__readstones_v1_blinn1
+    second: {fileID: 2100000, guid: 71f4ebefa0b57a34684f065f91105542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_building_readstones_building_roof_dome_roof_pinter1
+    second: {fileID: 2100000, guid: 0935d054523ed8944adeda37f206fbf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_building_roof_dome_circle_partan_mat
+    second: {fileID: 2100000, guid: 51b08377af246f346b0ab6bcb454abef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1
+    second: {fileID: 2100000, guid: 688a2e749cd0c0d4bbe90b352890f5fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_Ny-kupolmapping
+    second: {fileID: 2100000, guid: e0bdf6aeeaa8d9e4d8e6792427051fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn1
+    second: {fileID: 2100000, guid: 916cb67f6b5b9294684b092a19f1955f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn3
+    second: {fileID: 2100000, guid: 0bfd551560db19842af396caf8eeae13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn4
+    second: {fileID: 2100000, guid: 6f83adcadda704b40a11f442cf265371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn5
+    second: {fileID: 2100000, guid: 6f83adcadda704b40a11f442cf265371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn6
+    second: {fileID: 2100000, guid: 916cb67f6b5b9294684b092a19f1955f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn7
+    second: {fileID: 2100000, guid: 0bfd551560db19842af396caf8eeae13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn8
+    second: {fileID: 2100000, guid: a79091e4df92cb94299ef89d2576f8e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_blinn9
+    second: {fileID: 2100000, guid: 916cb67f6b5b9294684b092a19f1955f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_lambert2
+    second: {fileID: 2100000, guid: 38f6fd8375c4182438961b4b814891f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_lambert3
+    second: {fileID: 2100000, guid: 0c40e93337802f143b00a0670495cad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: readstones_v1_lambert4
+    second: {fileID: 2100000, guid: 07544ec48fddc6d4b9a5011fc53d0c56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_pinter1
+    second: {fileID: 2100000, guid: effe923419e119c46a523d0e79901733, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

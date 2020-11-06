@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 2a1d749ceff9e49459f1bf598f48cb2f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Component#10_817
+    100002: Component#10_818
+    100004: Component#10_819
+    100006: Component#10_820
+    100008: Component#10_821
+    100010: Component#10_822
+    100012: Component#10_823
+    100014: Component#10_824
+    100016: Component#10_825
+    100018: Component#10_826
+    100020: Component#10_827
+    100022: Component#10_828
+    100024: Component#10_829
+    100026: Component#10_830
+    100028: Component#10_831
+    100030: Component#10_832
+    100032: Component#10_833
+    100034: Component#10_834
+    100036: Component#10_835
+    100038: Component#10_836
+    100040: Component#10_837
+    100042: Component#10_838
+    100044: Component#10_839
+    100046: Component#10_840
+    100048: Component#16_044
+    100050: Component#23_817
+    100052: Component#23_818
+    100054: Component#23_819
+    100056: Component#23_820
+    100058: Component#23_821
+    100060: Component#23_822
+    100062: Component#23_823
+    100064: Component#23_824
+    100066: Component#23_825
+    100068: Component#23_826
+    100070: Component#23_827
+    100072: Component#23_828
+    100074: Component#23_829
+    100076: Component#23_830
+    100078: Component#23_831
+    100080: Component#23_832
+    100082: Component#23_833
+    100084: Component#23_834
+    100086: Component#23_835
+    100088: Component#23_836
+    100090: Component#23_837
+    100092: Component#23_838
+    100094: Component#23_839
+    100096: Component#23_840
+    100098: Component#5_035
+    100100: Component#64_0016
+    100102: Component#65_042
+    100104: Component#65_042 1
+    100106: Component#65_042 2
+    100108: Component#65_042 3
+    100110: Component#65_042 4
+    100112: Component#65_042 5
+    100114: Component#65_042 6
+    100116: Component#65_042 7
+    100118: Component#65_043
+    100120: Component#65_043 1
+    100122: Component#65_043 2
+    100124: Component#65_043 3
+    100126: Component#65_043 4
+    100128: Component#65_043 5
+    100130: Component#65_043 6
+    100132: Component#65_043 7
+    100134: Component#65_044
+    100136: Component#65_044 1
+    100138: Component#65_044 2
+    100140: Component#65_044 3
+    100142: Component#65_044 4
+    100144: Component#65_044 5
+    100146: Component#65_044 6
+    100148: Component#65_044 7
+    100150: Component#67_008
+    100152: Component#6_035
+    100154: group37
+    100156: group48
+    100158: group49
+    100160: group50
+    100162: group51
+    100164: group52
+    100166: group53
+    100168: group54
+    100170: group55
+    100172: pCube6
+    100174: pCube72
+    100176: pCube8
+    100178: pCube8 1
+    100180: pCylinder12
+    100182: polySurface1
+    100184: polySurface3
+    100186: polySurface8
+    100188: polySurface8 1
+    100190: polySurface8 2
+    100192: polySurface8 3
+    100194: polySurface8 4
+    100196: polySurface8 5
+    100198: polySurface8 6
+    100200: polySurface8 7
+    100202: polySurface9
+    100204: polySurface9 1
+    100206: polySurface9 2
+    100208: polySurface9 3
+    100210: polySurface9 4
+    100212: polySurface9 5
+    100214: polySurface9 6
+    100216: polySurface9 7
+    100218: //RootNode
+    100220: redstone_stracture_flor
+    100222: redstone_stracture_stairs
+    400000: Component#10_817
+    400002: Component#10_818
+    400004: Component#10_819
+    400006: Component#10_820
+    400008: Component#10_821
+    400010: Component#10_822
+    400012: Component#10_823
+    400014: Component#10_824
+    400016: Component#10_825
+    400018: Component#10_826
+    400020: Component#10_827
+    400022: Component#10_828
+    400024: Component#10_829
+    400026: Component#10_830
+    400028: Component#10_831
+    400030: Component#10_832
+    400032: Component#10_833
+    400034: Component#10_834
+    400036: Component#10_835
+    400038: Component#10_836
+    400040: Component#10_837
+    400042: Component#10_838
+    400044: Component#10_839
+    400046: Component#10_840
+    400048: Component#16_044
+    400050: Component#23_817
+    400052: Component#23_818
+    400054: Component#23_819
+    400056: Component#23_820
+    400058: Component#23_821
+    400060: Component#23_822
+    400062: Component#23_823
+    400064: Component#23_824
+    400066: Component#23_825
+    400068: Component#23_826
+    400070: Component#23_827
+    400072: Component#23_828
+    400074: Component#23_829
+    400076: Component#23_830
+    400078: Component#23_831
+    400080: Component#23_832
+    400082: Component#23_833
+    400084: Component#23_834
+    400086: Component#23_835
+    400088: Component#23_836
+    400090: Component#23_837
+    400092: Component#23_838
+    400094: Component#23_839
+    400096: Component#23_840
+    400098: Component#5_035
+    400100: Component#64_0016
+    400102: Component#65_042
+    400104: Component#65_042 1
+    400106: Component#65_042 2
+    400108: Component#65_042 3
+    400110: Component#65_042 4
+    400112: Component#65_042 5
+    400114: Component#65_042 6
+    400116: Component#65_042 7
+    400118: Component#65_043
+    400120: Component#65_043 1
+    400122: Component#65_043 2
+    400124: Component#65_043 3
+    400126: Component#65_043 4
+    400128: Component#65_043 5
+    400130: Component#65_043 6
+    400132: Component#65_043 7
+    400134: Component#65_044
+    400136: Component#65_044 1
+    400138: Component#65_044 2
+    400140: Component#65_044 3
+    400142: Component#65_044 4
+    400144: Component#65_044 5
+    400146: Component#65_044 6
+    400148: Component#65_044 7
+    400150: Component#67_008
+    400152: Component#6_035
+    400154: group37
+    400156: group48
+    400158: group49
+    400160: group50
+    400162: group51
+    400164: group52
+    400166: group53
+    400168: group54
+    400170: group55
+    400172: pCube6
+    400174: pCube72
+    400176: pCube8
+    400178: pCube8 1
+    400180: pCylinder12
+    400182: polySurface1
+    400184: polySurface3
+    400186: polySurface8
+    400188: polySurface8 1
+    400190: polySurface8 2
+    400192: polySurface8 3
+    400194: polySurface8 4
+    400196: polySurface8 5
+    400198: polySurface8 6
+    400200: polySurface8 7
+    400202: polySurface9
+    400204: polySurface9 1
+    400206: polySurface9 2
+    400208: polySurface9 3
+    400210: polySurface9 4
+    400212: polySurface9 5
+    400214: polySurface9 6
+    400216: polySurface9 7
+    400218: //RootNode
+    400220: redstone_stracture_flor
+    400222: redstone_stracture_stairs
+    2100000: TM-domebasedec1
+    2100002: tajMahalRoofTopPeice
+    2100004: Color_C09
+    2100006: Ny-kupolmapping
+    2100008: blinn1
+    2100010: blinn4
+    2100012: lambert3
+    2100014: lambert2
+    2100016: lambert4
+    2100018: blinn3
+    2100020: blinn2
+    2300000: Component#10_817
+    2300002: Component#10_818
+    2300004: Component#10_819
+    2300006: Component#10_820
+    2300008: Component#10_821
+    2300010: Component#10_822
+    2300012: Component#10_823
+    2300014: Component#10_824
+    2300016: Component#10_825
+    2300018: Component#10_826
+    2300020: Component#10_827
+    2300022: Component#10_828
+    2300024: Component#10_829
+    2300026: Component#10_830
+    2300028: Component#10_831
+    2300030: Component#10_832
+    2300032: Component#10_833
+    2300034: Component#10_834
+    2300036: Component#10_835
+    2300038: Component#10_836
+    2300040: Component#10_837
+    2300042: Component#10_838
+    2300044: Component#10_839
+    2300046: Component#10_840
+    2300048: Component#16_044
+    2300050: Component#23_817
+    2300052: Component#23_818
+    2300054: Component#23_819
+    2300056: Component#23_820
+    2300058: Component#23_821
+    2300060: Component#23_822
+    2300062: Component#23_823
+    2300064: Component#23_824
+    2300066: Component#23_825
+    2300068: Component#23_826
+    2300070: Component#23_827
+    2300072: Component#23_828
+    2300074: Component#23_829
+    2300076: Component#23_830
+    2300078: Component#23_831
+    2300080: Component#23_832
+    2300082: Component#23_833
+    2300084: Component#23_834
+    2300086: Component#23_835
+    2300088: Component#23_836
+    2300090: Component#23_837
+    2300092: Component#23_838
+    2300094: Component#23_839
+    2300096: Component#23_840
+    2300098: Component#5_035
+    2300100: Component#64_0016
+    2300102: Component#65_042
+    2300104: Component#65_042 1
+    2300106: Component#65_042 2
+    2300108: Component#65_042 3
+    2300110: Component#65_042 4
+    2300112: Component#65_042 5
+    2300114: Component#65_042 6
+    2300116: Component#65_042 7
+    2300118: Component#65_043
+    2300120: Component#65_043 1
+    2300122: Component#65_043 2
+    2300124: Component#65_043 3
+    2300126: Component#65_043 4
+    2300128: Component#65_043 5
+    2300130: Component#65_043 6
+    2300132: Component#65_043 7
+    2300134: Component#65_044
+    2300136: Component#65_044 1
+    2300138: Component#65_044 2
+    2300140: Component#65_044 3
+    2300142: Component#65_044 4
+    2300144: Component#65_044 5
+    2300146: Component#65_044 6
+    2300148: Component#65_044 7
+    2300150: Component#67_008
+    2300152: Component#6_035
+    2300154: pCube6
+    2300156: pCube72
+    2300158: pCube8
+    2300160: pCube8 1
+    2300162: pCylinder12
+    2300164: polySurface1
+    2300166: polySurface3
+    2300168: polySurface8
+    2300170: polySurface8 1
+    2300172: polySurface8 2
+    2300174: polySurface8 3
+    2300176: polySurface8 4
+    2300178: polySurface8 5
+    2300180: polySurface8 6
+    2300182: polySurface8 7
+    2300184: polySurface9
+    2300186: polySurface9 1
+    2300188: polySurface9 2
+    2300190: polySurface9 3
+    2300192: polySurface9 4
+    2300194: polySurface9 5
+    2300196: polySurface9 6
+    2300198: polySurface9 7
+    2300200: redstone_stracture_flor
+    2300202: redstone_stracture_stairs
+    3300000: Component#10_817
+    3300002: Component#10_818
+    3300004: Component#10_819
+    3300006: Component#10_820
+    3300008: Component#10_821
+    3300010: Component#10_822
+    3300012: Component#10_823
+    3300014: Component#10_824
+    3300016: Component#10_825
+    3300018: Component#10_826
+    3300020: Component#10_827
+    3300022: Component#10_828
+    3300024: Component#10_829
+    3300026: Component#10_830
+    3300028: Component#10_831
+    3300030: Component#10_832
+    3300032: Component#10_833
+    3300034: Component#10_834
+    3300036: Component#10_835
+    3300038: Component#10_836
+    3300040: Component#10_837
+    3300042: Component#10_838
+    3300044: Component#10_839
+    3300046: Component#10_840
+    3300048: Component#16_044
+    3300050: Component#23_817
+    3300052: Component#23_818
+    3300054: Component#23_819
+    3300056: Component#23_820
+    3300058: Component#23_821
+    3300060: Component#23_822
+    3300062: Component#23_823
+    3300064: Component#23_824
+    3300066: Component#23_825
+    3300068: Component#23_826
+    3300070: Component#23_827
+    3300072: Component#23_828
+    3300074: Component#23_829
+    3300076: Component#23_830
+    3300078: Component#23_831
+    3300080: Component#23_832
+    3300082: Component#23_833
+    3300084: Component#23_834
+    3300086: Component#23_835
+    3300088: Component#23_836
+    3300090: Component#23_837
+    3300092: Component#23_838
+    3300094: Component#23_839
+    3300096: Component#23_840
+    3300098: Component#5_035
+    3300100: Component#64_0016
+    3300102: Component#65_042
+    3300104: Component#65_042 1
+    3300106: Component#65_042 2
+    3300108: Component#65_042 3
+    3300110: Component#65_042 4
+    3300112: Component#65_042 5
+    3300114: Component#65_042 6
+    3300116: Component#65_042 7
+    3300118: Component#65_043
+    3300120: Component#65_043 1
+    3300122: Component#65_043 2
+    3300124: Component#65_043 3
+    3300126: Component#65_043 4
+    3300128: Component#65_043 5
+    3300130: Component#65_043 6
+    3300132: Component#65_043 7
+    3300134: Component#65_044
+    3300136: Component#65_044 1
+    3300138: Component#65_044 2
+    3300140: Component#65_044 3
+    3300142: Component#65_044 4
+    3300144: Component#65_044 5
+    3300146: Component#65_044 6
+    3300148: Component#65_044 7
+    3300150: Component#67_008
+    3300152: Component#6_035
+    3300154: pCube6
+    3300156: pCube72
+    3300158: pCube8
+    3300160: pCube8 1
+    3300162: pCylinder12
+    3300164: polySurface1
+    3300166: polySurface3
+    3300168: polySurface8
+    3300170: polySurface8 1
+    3300172: polySurface8 2
+    3300174: polySurface8 3
+    3300176: polySurface8 4
+    3300178: polySurface8 5
+    3300180: polySurface8 6
+    3300182: polySurface8 7
+    3300184: polySurface9
+    3300186: polySurface9 1
+    3300188: polySurface9 2
+    3300190: polySurface9 3
+    3300192: polySurface9 4
+    3300194: polySurface9 5
+    3300196: polySurface9 6
+    3300198: polySurface9 7
+    3300200: redstone_stracture_flor
+    3300202: redstone_stracture_stairs
+    4300000: Component#10_821
+    4300002: Component#10_820
+    4300004: Component#23_840
+    4300006: Component#23_839
+    4300008: Component#23_838
+    4300010: Component#23_837
+    4300012: Component#23_836
+    4300014: Component#23_832
+    4300016: Component#23_831
+    4300018: Component#10_819
+    4300020: Component#10_818
+    4300022: Component#23_817
+    4300024: Component#10_840
+    4300026: Component#5_035
+    4300028: Component#10_836
+    4300030: Component#10_835
+    4300032: Component#10_829
+    4300034: Component#10_828
+    4300036: Component#10_827
+    4300038: Component#10_831
+    4300040: Component#10_830
+    4300042: Component#10_826
+    4300044: Component#10_825
+    4300046: Component#23_830
+    4300048: Component#23_829
+    4300050: Component#23_828
+    4300052: Component#23_820
+    4300054: Component#23_819
+    4300056: Component#23_818
+    4300058: Component#23_822
+    4300060: Component#23_821
+    4300062: Component#23_825
+    4300064: Component#23_824
+    4300066: Component#23_823
+    4300068: Component#23_827
+    4300070: Component#23_826
+    4300072: Component#10_834
+    4300074: Component#10_833
+    4300076: Component#10_832
+    4300078: Component#6_035
+    4300080: Component#10_817
+    4300082: Component#10_839
+    4300084: Component#10_838
+    4300086: Component#10_837
+    4300088: Component#10_824
+    4300090: Component#10_823
+    4300092: Component#10_822
+    4300094: Component#23_835
+    4300096: Component#23_834
+    4300098: Component#23_833
+    4300100: polySurface1
+    4300102: polySurface3
+    4300104: pCube8
+    4300106: pCube6
+    4300108: pCube8
+    4300110: pCube72
+    4300112: polySurface9
+    4300114: polySurface8
+    4300116: Component#65_044
+    4300118: Component#65_042
+    4300120: Component#65_043
+    4300122: polySurface9
+    4300124: polySurface8
+    4300126: Component#65_044
+    4300128: Component#65_042
+    4300130: Component#65_043
+    4300132: polySurface9
+    4300134: polySurface8
+    4300136: Component#65_044
+    4300138: Component#65_042
+    4300140: Component#65_043
+    4300142: polySurface9
+    4300144: polySurface8
+    4300146: Component#65_044
+    4300148: Component#65_042
+    4300150: Component#65_043
+    4300152: polySurface9
+    4300154: polySurface8
+    4300156: Component#65_044
+    4300158: Component#65_042
+    4300160: Component#65_043
+    4300162: polySurface9
+    4300164: polySurface8
+    4300166: Component#65_044
+    4300168: Component#65_042
+    4300170: Component#65_043
+    4300172: polySurface9
+    4300174: polySurface8
+    4300176: Component#65_044
+    4300178: Component#65_042
+    4300180: Component#65_043
+    4300182: polySurface9
+    4300184: polySurface8
+    4300186: Component#65_044
+    4300188: Component#65_042
+    4300190: Component#65_043
+    4300192: Component#16_044
+    4300194: Component#64_0016
+    4300196: redstone_stracture_flor
+    4300198: redstone_stracture_stairs
+    4300200: Component#67_008
+    4300202: pCylinder12
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_C09
+    second: {fileID: 2100000, guid: ffe84229d2d381c4fa38ce79c8ac69ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ny-kupolmapping
+    second: {fileID: 2100000, guid: 688a2e749cd0c0d4bbe90b352890f5fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TM-domebasedec1
+    second: {fileID: 2100000, guid: 13bb20f51e7ef524da5b5a0fb2e10e49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 916cb67f6b5b9294684b092a19f1955f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: a79091e4df92cb94299ef89d2576f8e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3
+    second: {fileID: 2100000, guid: 0bfd551560db19842af396caf8eeae13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn4
+    second: {fileID: 2100000, guid: 6f83adcadda704b40a11f442cf265371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 38f6fd8375c4182438961b4b814891f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 0c40e93337802f143b00a0670495cad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 07544ec48fddc6d4b9a5011fc53d0c56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tajMahalRoofTopPeice
+    second: {fileID: 2100000, guid: c33d1169c5bcd7e40a1b885c737a337e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
