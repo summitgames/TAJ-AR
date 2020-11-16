@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Project AR/Scenes/Taj AR.unity
+- path: Assets/Project AR/Scenes/ViewInAR.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
