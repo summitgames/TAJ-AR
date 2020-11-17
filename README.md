@@ -119,7 +119,7 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 
 - Please refer to our [Project Scope and Design Document](https://github.com/summitgames/TAJ-AR/PROJECT_SCOPE) for all latest scope, design and technical specifications.
 
-**Improvements to our software source and creating media content which bring creativity to its story line and other elements for the experience are as follows:**
+> **Improvements to our software source and creating media content which bring creativity to its story line and other elements for the experience are as follows:**
 
 1. Designing UX and 2D Graphics + Animations on Screens for the application.
 2. Curating Stories and Adding Photos and Images and textual notes for the story content.
@@ -182,20 +182,20 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 
 • 4K 360° Video VR Content.
 • Binaural Audio (Immersive).
-• Immersive Story Histporical Archives & Content.
+• Immersive Story Historical Archives & Content.
 
 
 ## Project Screens
 
 - The Project screens of the source, content and scene, levels of designs to give a preview of how it is organised and gives the contributors a preview of whats it would look like to dive in.
 
-<img src="https://github.com/summitgames/TAJ-AR/Project Screenshots/Screen1.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen1.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
 
-<img src="https://github.com/summitgames/TAJ-AR/Project Screenshots/Screen2.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen2.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
 
-<img src="https://github.com/summitgames/TAJ-AR/Project Screenshots/Screen3.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen3.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
 
-<img src="https://github.com/summitgames/TAJ-AR/Project Screenshots/Screen4.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen4.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
 
 
 ## Project Preview
@@ -223,7 +223,7 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 
 (The project can be developed using Linux as well as other OS.)
 
-**A "Getting Started" guidelines from installation, project heirarchy and classification of files in the Project source code would soon be written and added to the project repository.**
+> **A "Getting Started" guidelines from installation, project heirarchy and classification of files in the Project source code would soon be written and added to the project repository.**
 
 
 ## Credits
@@ -252,6 +252,7 @@ This Project is authored and conrtributed under a [GNU- GPL (v3)](https://www.gn
 
 - The Code and Project supports LFS files upto a certain limit in the project [10 GB] and each file has to be approved by moderators, so uploading only necessary content and media files that are inline with its story, graphics, designs and its overall theme. The media files has to be compressed for to be played on mobile devices. Please find more Information about content creation process for the project: [Content Guidelines](https://github.com/summitgames/TAJ-AR/CONTENT_GUIDELINES.txt)
 
+- The project may have bugs and may require optimisations for a smooth experience in the app. Please open a new issue under bugs section. 
 
 ## Disclaimer
 
