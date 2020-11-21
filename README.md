@@ -159,7 +159,7 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 
 - If you're a 2D Animator who could animate 2D graphics in the Unity or Unreal Engine.
 
-**Please use the issue tracker for all conversations.**
+**Please use the [issue tracker](https://github.com/summitgames/TAJ-AR/issues) and [discussion section](https://github.com/summitgames/TAJ-AR/discussions) for all conversations.**
 
 
 
@@ -189,20 +189,20 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 
 - The Project screens of the source, content and scene, levels of designs to give a preview of how it is organised and gives the contributors a preview of whats it would look like to dive in.
 
-<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen1.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/Project%20Screenshots/Screen1.png" alt="Project Screens" style="float:  left; margin-right: 10px; width:640px ; height:360px"  />
 
-<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen2.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/Project%20Screenshots/Screen2.png" alt="Project Screens" style="float:  left; margin-right: 10px; width:640px ; height:360px"  />
 
-<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen3.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/Project%20Screenshots/Screen3.png" alt="Project Screens" style="float:  left; margin-right: 10px; width:640px ; height:360px"  />
 
-<img src="https://github.com/summitgames/TAJ-AR/Project/Screenshots/Screen4.png" alt="Project Screens" style="float:  left; margin-right: 10px;" "width:640px ; height:360px"  />
+<img src="https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/Project%20Screenshots/Screen4.png" alt="Project Screens" style="float:  left; margin-right: 10px; width:640px ; height:360px"  />
 
 
 ## Project Preview
 
 - The Project Preview and experience from the application (Video) : 
 
-[Preview Application](https://github.com/summitgames/TAJ-AR/PreviewApplication.mp4)
+[Preview Application](https://github.com/summitgames/TAJ-AR/blob/master/PreviewApplication.mp4)
 
 
 ## Setting up 
