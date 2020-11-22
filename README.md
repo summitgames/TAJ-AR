@@ -58,6 +58,7 @@ Realistic Photogrammetry real-world scale, a life-size 3D model of the TAJ MAHAL
 The 360 Video backgrounds woulld rec-create the magical architecture as is, where you are. The expertience blends physical with 360 background to give complete experience.
 
 - **Virtual Audio Guide**
+
 An Audio tour experience will be a virtual guide and to tell stories. On-Location Audio Tour with historical events and Podcasts Mini-series.
 
 - **Time-lapse (180° Experience)**
@@ -157,7 +158,7 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 
 - You can contribute, If you're a audio or a sound designer who also have knowledge or interets in the works for a binaural 3D designs immersive content.
 
-- If you're a 2D Animator who could animate 2D graphics in the Unity or Unreal Engine.
+- You can contribute, If you're a 2D Animator who could animate 2D graphics in the Unity or Unreal Engine.
 
 **Please use the [issue tracker](https://github.com/summitgames/TAJ-AR/issues) and [discussion section](https://github.com/summitgames/TAJ-AR/discussions) for all conversations.**
 
@@ -198,20 +199,38 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 <img src="https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/Project%20Screenshots/Screen4.png" alt="Project Screens" style="float:  left; margin-right: 10px; width:640px ; height:360px"  />
 
 
+![TAJ%20Mahal%20AR/Project%20Screenshots/Screen1.png](TAJ%20Mahal%20AR/Project%20Screenshots/Screen1.png)
+
+![TAJ%20Mahal%20AR/Project%20Screenshots/Screen2.png](TAJ%20Mahal%20AR/Project%20Screenshots/Screen1.png)
+
+![TAJ%20Mahal%20AR/Project%20Screenshots/Screen3.png](TAJ%20Mahal%20AR/Project%20Screenshots/Screen3.png)
+
+![TAJ%20Mahal%20AR/Project%20Screenshots/Screen4.png](TAJ%20Mahal%20AR/Project%20Screenshots/Screen4.png)
+
+
 ## Project Preview
 
 - The Project Preview and experience from the application (Video) : 
 
 [Preview Application](https://github.com/summitgames/TAJ-AR/blob/master/PreviewApplication.mp4)
 
-[Preview App for Android Platform](https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/AppBuilds/TAJ_61.apk)
+[Preview App for Android Platform](https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/PreviewApp/TAJ_61.apk)
 
 
 ## Setting up 
 
-- (Installation & Deployment & Launch)
+### (Installation & Deployment & Launch)
+
+#### Prerequisites
+
+- Recommended verison of Unity that can be downloaded from [here](https://unity3d.com/get-unity/download/archive). This project app was last built and tested using Unity 2019.3.13f1.
+
+- The game was tested on Android, but one should be able to port it to other platforms too.
+
+#### Getting Started
 
 - To run this project, install the following...
+
 1. Install Unity 2019.3.13f1 and Above
 2. Install SDK Android Studio (for debugging)
 3. Install Java SDK 8 and Above
