@@ -215,10 +215,14 @@ The real-estate industry, heritage landmarks, architectural buildings, plots and
 [Preview Application](https://github.com/summitgames/TAJ-AR/blob/master/PreviewApplication.mp4)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Preview App for Android Platform](https://taj-app-builds.s3.us-west-1.amazonaws.com/TAJ_61.apk)
 =======
 [Preview App for Android Platform](https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/PreviewApp/TAJ_61.apk)
 >>>>>>> parent of c006230 (Project app and reference video added for quick preview.)
+=======
+[Preview App for Android Platform](https://github.com/summitgames/TAJ-AR/tree/master/TAJ%20Mahal%20AR/PreviewApp/TAJ_61.apk)
+>>>>>>> 6726b0ebd151efb61bdc055b73b578a6b2134458
 
 
 ## Setting up 
